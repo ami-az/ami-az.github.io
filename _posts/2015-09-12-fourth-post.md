@@ -42,3 +42,24 @@ published: true
 
 <span class="image center"><img src="{{ 'assets/images/ram.png' | relative_url }}" alt="" /></span>
 
+- If you guys having total amount of RAM below 2GB, then I would highly recommend to upgrade them to have at least 8GB for smoother experience (especially tabbing in Chrome).
+- How to upgrade RAM ? -> download here downloadmoreram.com (scam jk)
+- You need to check your RAM slot in your computer first. If there are empty slots or you may do replacement to the old ones ( check your RAM type eg. ddr3, ddr4).
+- If you guys are inexperienced in doing this, then you should get some help from knowledgeable person.
+
+<u>Step 5: The Ultimate Upgrade for your Computer ( SSD) Get Ready for Zoommm! </u>
+
+- Are you using normal hard disk ? eww are u from 1950s pc users lmao
+- Upgrade your hard disk by installing SSD in your computer ( Make it as main C partition).
+- Buy from here https://shopee.com.my -> ( search ‘SSD’ )
+- When you had it, install the SSD inside your laptop/pc. You might want to replace your old hard disk if you don’t have any hard disk slot left.
+- For normal laptop, there is 99% chance that your laptop has only 1 hard disk slot. And you still want to use your old hard disk at the same time.
+- Do not worry, if you guys not actually using the DVD drive ( located at the side of laptop), then you guys able to take its slot to install the SSD.
+- In order to do that, a ‘disk caddy’ must be used. See image below.
+
+<span class="image center"><img src="{{ 'assets/images/caddy.png' | relative_url }}" alt="" /></span>
+
+
+
+
+
