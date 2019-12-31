@@ -37,7 +37,6 @@ published: true
 <font color="black">Step 4 : Adding more RAMS</font>
 - Check your total amount of computer’s RAM -> Go to task manager and click Performance tab.
 - Then, take a look at the RAM resource under Memory.
-
 <span class="image center"><img src="{{ 'assets/images/ram.png' | relative_url }}" alt="" alt="" width="300" height="300" /></span>
 
 - If you guys having total amount of RAM below 2GB, then I would highly recommend to upgrade them to have at least 8GB for smoother experience (especially tabbing in Chrome).
