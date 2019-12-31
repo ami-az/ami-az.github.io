@@ -64,8 +64,6 @@ published: true
 
 <span class="image center"><img src="{{ 'assets/images/ssd.png' | relative_url }}" alt="" width="500" height="200" /></span>
 
-meow
-
 For now, i’m using this SSD for my laptop (yes it does zoommm!)
  
  THANKS A LOT FOR READING =)
