@@ -47,7 +47,7 @@ published: true
 
 <u>Step 5: The Ultimate Upgrade for your Computer ( SSD) Get Ready for Zoommm! </u>
 
-- <font color="red">Are you using normal hard disk ? eww are u from 1950s pc users lmao</font>
+- <font color="black">Are you using normal hard disk ? eww are u from 1950s pc users lmao</font>
 - Upgrade your hard disk by installing SSD in your computer ( Make it as main C partition).
 - Buy from here <a href="url">https://shopee.com.my</a> -> ( search ‘SSD’ )
 - When you had it, install the SSD inside your laptop/pc. You might want to replace your old hard disk if you don’t have any hard disk slot left.
