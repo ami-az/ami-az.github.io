@@ -1,6 +1,6 @@
 ---
 title: Faster PC
-author: Chris
+author: Ami-AZ
 layout: post
 published: true
 ---
