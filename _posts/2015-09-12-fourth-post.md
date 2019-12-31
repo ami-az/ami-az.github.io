@@ -40,7 +40,7 @@ published: true
 - Check your total amount of computer’s RAM -> Go to task manager and click Performance tab.
 - Then, take a look at the RAM resource under Memory.
 
-<span class="image center"><img src="{{ 'assets/images/ram.png' | relative_url }}" alt="" /></span>
+<span class="image center"><img src="{{ 'assets/images/ram.png' | relative_url }}" alt="" alt="" width="300" height="300" /></span>
 
 - If you guys having total amount of RAM below 2GB, then I would highly recommend to upgrade them to have at least 8GB for smoother experience (especially tabbing in Chrome).
 - How to upgrade RAM ? -> download here downloadmoreram.com (scam jk)
@@ -58,7 +58,7 @@ published: true
 - In order to do that, a ‘disk caddy’ must be used. See image below.
 
 <span class="image center"><img src="{{ 'assets/images/caddy.png' | relative_url }}" alt="" alt="" width="300" height="300"  /></span>
- test
+
 - For new/high end laptop, there is more likely that your laptop has M.2 Slot ( for M.2 type SSD). So you are able to use your old hard disk and new SSD (M.2) at the same time.
 - If you need more guidance in doing this (yes you should tho) , get some help or you may contact me.
 
