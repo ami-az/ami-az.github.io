@@ -5,7 +5,7 @@ order: 5
 published: true
 ---
 
-<br><Thank you!></br> 
-<br>< 감사합니다 ></br>
-< ありがとうございました >
+<br><Thank you!> 
+<br>< 감사합니다 >
+<br>< ありがとうございました >
 
