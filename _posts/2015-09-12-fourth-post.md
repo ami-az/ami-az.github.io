@@ -15,7 +15,6 @@ published: true
 - Thus, click Apply.
 
 <span class="image right"><img src="{{ '_posts/msconfig.jpg' | relative_url }}" alt="" /></span>
-​
 
 **Step 2: Configure Startup in Windows 10**
 
