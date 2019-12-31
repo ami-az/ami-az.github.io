@@ -45,7 +45,7 @@ published: true
 - You need to check your RAM slot in your computer first. If there are empty slots or you may do replacement to the old ones ( check your RAM type eg. ddr3, ddr4).
 - If you guys are inexperienced in doing this, then you should get some help from knowledgeable person.
 
-<font color="black"><u>Step 5: The Ultimate Upgrade for your Computer ( SSD) Get Ready for Zoommm! </u></font>
+<font color="black">Step 5: The Ultimate Upgrade for your Computer ( SSD) Get Ready for Zoommm!</font>
 
 - Are you using normal hard disk ? eww are u from 1950s pc users lmao
 - Upgrade your hard disk by installing SSD in your computer ( Make it as main C partition).
