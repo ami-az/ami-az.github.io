@@ -8,11 +8,13 @@ published: true
 
 <b><u>Step 1: Configure MSCONFIG in Windows 10</u></b>
 
-<b>- Type on Search (on window taskbar)-> <strong>msconfig</strong> and click on it .
+<b>
+- Type on Search (on window taskbar)-> <strong>msconfig</strong> and click on it .
 - Select Services tab -> Tick “Hide All Microsoft Services” .
 - Then remove anything you think unnecessary to be there. For example, “Firefox Update”, “Chrome Update” or “Google Update” services.
 - Do not worry you can just disable them by Tick-ing on the left side of it.
-- Thus, click Apply.</b>
+- Thus, click Apply.
+</b>
 
 <span class="image center"><img src="{{ 'assets/images/msconfig.png' | relative_url }}" alt="" /></span>
 
