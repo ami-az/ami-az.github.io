@@ -2,7 +2,7 @@
 title: Faster PC
 author: Ami-AZ
 layout: post
-published: true
+
 ---
 <font color="maroon">These are the quick and simple steps on how to troubleshoot and to achieve improvements (faster computer bootup and efficiency).</font>
 
