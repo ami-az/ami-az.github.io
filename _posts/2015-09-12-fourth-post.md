@@ -14,12 +14,11 @@ published: true
 - Do not worry you can just disable them by Tick-ing on the left side of it.
 - Thus, click Apply.
 
-<a href="#" class="image featured"><img src="assets/images/cat-fantasy-butterfly-2-1920×1080.jpg" alt="" /></a>
+<span class="image right"><img src="{{ '_posts/msconfig.jpg' | relative_url }}" alt="" /></span>
+​
 
 **Step 2: Configure Startup in Windows 10**
 
 - Open task manager by right clicking on bottom taskbar and go to Startup tab.
 - Look any application that you think is unnecessary and consuming your computer memory (RAM).
 - To disable the application -> Right Click on it then choose Disable
-
-
