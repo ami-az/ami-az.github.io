@@ -63,7 +63,7 @@ published: true
 - If you need more guidance in doing this (yes you should tho) , get some help or you may contact me.
 
 <span class="image center"><img src="{{ 'assets/images/ssd.png' | relative_url }}" alt="For now, i’m using this SSD for my laptop (yes it does zoommm!)" /></span>
-
+For now, i’m using this SSD for my laptop (yes it does zoommm!)
 
 
 
