@@ -57,12 +57,12 @@ published: true
 - Do not worry, if you guys not actually using the DVD drive ( located at the side of laptop), then you guys able to take its slot to install the SSD.
 - In order to do that, a ‘disk caddy’ must be used. See image below.
 
-<span class="image center"><img src="{{ 'assets/images/caddy.png' | relative_url }}" alt="" alt="" width="500" height="500"  /></span>
+<span class="image center"><img src="{{ 'assets/images/caddy.png' | relative_url }}" alt="" alt="" width="300" height="300"  /></span>
 
 - For new/high end laptop, there is more likely that your laptop has M.2 Slot ( for M.2 type SSD). So you are able to use your old hard disk and new SSD (M.2) at the same time.
 - If you need more guidance in doing this (yes you should tho) , get some help or you may contact me.
 
-<span class="image center"><img src="{{ 'assets/images/ssd.png' | relative_url }}" alt="" width="500" height="200" /></span>
+<span class="image center"><img src="{{ 'assets/images/ssd.png' | relative_url }}" alt="" width="300" height="300" /></span>
 
 For now, i’m using this SSD for my laptop (yes it does zoommm!)
  
