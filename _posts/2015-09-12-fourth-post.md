@@ -14,7 +14,7 @@ published: true
 - Do not worry you can just disable them by Tick-ing on the left side of it.
 - Thus, click Apply.
 
-<span class="image right"><img src="{{ '_posts/msconfig.jpg' | relative_url }}" alt="" /></span>
+<span class="image right"><img src="{{ '_posts/msconfig.png' | relative_url }}" alt="" /></span>
 
 **Step 2: Configure Startup in Windows 10**
 
