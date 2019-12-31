@@ -1,6 +1,6 @@
 ---
 title: Motivation List
-subtitle: a list of books I read
+subtitle: Oops!
 layout: page
 icon: fa-book
 order: 3
