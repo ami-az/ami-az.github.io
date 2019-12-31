@@ -16,7 +16,7 @@ published: true
 
 <span class="image right"><img src="{{ 'assets/images/msconfig.png' | relative_url }}" alt="" /></span>
 
-**Step 2: Configure Startup in Windows 10**
+<u>Step 2: Configure Startup in Windows 10</u>
 
 - Open task manager by right clicking on bottom taskbar and go to Startup tab.
 - Look any application that you think is unnecessary and consuming your computer memory (RAM).
