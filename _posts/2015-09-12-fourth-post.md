@@ -6,7 +6,7 @@ published: true
 ---
 **These are the quick and simple steps on how to troubleshoot and to achieve improvements (faster computer bootup and efficiency).**
 
-<b><u>Step 1: Configure MSCONFIG in Windows 10</u></b>
+<font color="black">Step 1: Configure MSCONFIG in Windows 10</font>
 
 - Type on Search (on window taskbar)-> <strong>msconfig</strong> and click on it .
 - Select Services tab -> Tick “Hide All Microsoft Services” .
@@ -16,7 +16,7 @@ published: true
 
 <span class="image center"><img src="{{ 'assets/images/msconfig.png' | relative_url }}" alt="" /></span>
 
-<u>Step 2: Configure Startup in Windows 10</u>
+<font color="black">Step 2: Configure Startup in Windows 10</font>
 
 - Open task manager by right clicking on bottom taskbar and go to Startup tab.
 - Look any application that you think is unnecessary and consuming your computer memory (RAM).
@@ -24,7 +24,7 @@ published: true
 
 <span class="image center"><img src="{{ 'assets/images/taskmanager.png' | relative_url }}" alt="" /></span>
 
-<u>Step 3: Check if your Computer is Infected by Virus</u>
+<font color="black">Step 3: Check if your Computer is Infected by Virus</font>
 
 - Imo, the most reliable (at the moment) and free antivirus to scan your computer system is Malwarebytes.
 - Free Download (no commission tho) -> http://www.malwarebytes.com
