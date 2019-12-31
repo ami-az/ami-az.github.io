@@ -14,7 +14,7 @@ published: true
 - Do not worry you can just disable them by Tick-ing on the left side of it.
 - Thus, click Apply.
 
-<span class="image right"><img src="{{ '_posts/msconfig.png' | relative_url }}" alt="" /></span>
+<span class="image right"><img src="{{ 'assets/images/msconfig.png' | relative_url }}" alt="" /></span>
 
 **Step 2: Configure Startup in Windows 10**
 
@@ -22,8 +22,7 @@ published: true
 - Look any application that you think is unnecessary and consuming your computer memory (RAM).
 - To disable the application -> Right Click on it then choose Disable
 
-<span class="image right"><img src="{{ '_posts/taskmanager.png' | relative_url }}" alt="" /></span>
-
+<span class="image right"><img src="{{ 'assets/images/taskmanager.png' | relative_url }}" alt="" /></span>
 
 <u>Step 3: Check if your Computer is Infected by Virus</u>
 
@@ -37,4 +36,3 @@ published: true
 
 - Check your total amount of computer’s RAM -> Go to task manager and click Performance tab.
 - Then, take a look at the RAM resource under Memory.
-
