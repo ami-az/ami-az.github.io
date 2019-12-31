@@ -21,3 +21,14 @@ published: true
 - Open task manager by right clicking on bottom taskbar and go to Startup tab.
 - Look any application that you think is unnecessary and consuming your computer memory (RAM).
 - To disable the application -> Right Click on it then choose Disable
+
+<span class="image right"><img src="{{ '_posts/taskmanager.png' | relative_url }}" alt="" /></span>
+
+
+<u>Step 3: Check if your Computer is Infected by Virus</u>
+
+- Imo, the most reliable (at the moment) and free antivirus to scan your computer system is Malwarebytes.
+- Free Download (no commission tho) -> http://www.malwarebytes.com
+- Remember this is for scanning and virus removal only ( real time protection needs premium account).
+- You guys can install Avast or Smadav free antivirus software. ( Currently I’m using Avast).
+- Next, if you guys experiencing situation below then you should install Adwcleaner. (http://www.malwarebytes.com/adwcleaner )
