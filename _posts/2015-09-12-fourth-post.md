@@ -32,3 +32,9 @@ published: true
 - Remember this is for scanning and virus removal only ( real time protection needs premium account).
 - You guys can install Avast or Smadav free antivirus software. ( Currently I’m using Avast).
 - Next, if you guys experiencing situation below then you should install Adwcleaner. (http://www.malwarebytes.com/adwcleaner )
+
+<u>Step 4 : Adding more RAMS</u>
+
+- Check your total amount of computer’s RAM -> Go to task manager and click Performance tab.
+- Then, take a look at the RAM resource under Memory.
+
