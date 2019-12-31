@@ -6,8 +6,7 @@ published: true
 ---
 <font color="maroon">These are the quick and simple steps on how to troubleshoot and to achieve improvements (faster computer bootup and efficiency).</font>
 
-<br><font color="black">Step 1: Configure MSCONFIG in Windows 10</font></br>
-
+<br><font color="black">Step 1: Configure MSCONFIG in Windows 10</font>
 - Type on Search (on window taskbar)-> <strong>msconfig</strong> and click on it .
 - Select Services tab -> Tick “Hide All Microsoft Services” .
 - Then remove anything you think unnecessary to be there. For example, “Firefox Update”, “Chrome Update” or “Google Update” services.
