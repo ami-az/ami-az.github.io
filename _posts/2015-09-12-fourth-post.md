@@ -2,12 +2,11 @@
 title: Faster PC
 author: Ami-AZ
 layout: post
-
+published: true
 ---
 <font color="maroon">These are the quick and simple steps on how to troubleshoot and to achieve improvements (faster computer bootup and efficiency).</font>
 
-
-<font color="black">Step 1: Configure MSCONFIG in Windows 10</font>
+<br><font color="black">Step 1: Configure MSCONFIG in Windows 10</font></br>
 
 - Type on Search (on window taskbar)-> <strong>msconfig</strong> and click on it .
 - Select Services tab -> Tick “Hide All Microsoft Services” .
