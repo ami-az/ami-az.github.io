@@ -51,7 +51,7 @@ published: true
 
 - Are you using normal hard disk ? eww are u from 1950s pc users lmao
 - Upgrade your hard disk by installing SSD in your computer ( Make it as main C partition).
-- Buy from here https://shopee.com.my -> ( search ‘SSD’ )
+- Buy from here <a href="url">https://shopee.com.my</a> -> ( search ‘SSD’ )
 - When you had it, install the SSD inside your laptop/pc. You might want to replace your old hard disk if you don’t have any hard disk slot left.
 - For normal laptop, there is 99% chance that your laptop has only 1 hard disk slot. And you still want to use your old hard disk at the same time.
 - Do not worry, if you guys not actually using the DVD drive ( located at the side of laptop), then you guys able to take its slot to install the SSD.
