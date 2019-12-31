@@ -8,13 +8,11 @@ published: true
 
 <b><u>Step 1: Configure MSCONFIG in Windows 10</u></b>
 
-<b>
 - Type on Search (on window taskbar)-> <strong>msconfig</strong> and click on it .
 - Select Services tab -> Tick “Hide All Microsoft Services” .
 - Then remove anything you think unnecessary to be there. For example, “Firefox Update”, “Chrome Update” or “Google Update” services.
 - Do not worry you can just disable them by Tick-ing on the left side of it.
 - Thus, click Apply.
-</b>
 
 <span class="image center"><img src="{{ 'assets/images/msconfig.png' | relative_url }}" alt="" /></span>
 
@@ -34,7 +32,13 @@ published: true
 - You guys can install Avast or Smadav free antivirus software. ( Currently I’m using Avast).
 - Next, if you guys experiencing situation below then you should install Adwcleaner. (http://www.malwarebytes.com/adwcleaner )
 
+<span class="image center"><img src="{{ 'assets/images/adwcleaner.png' | relative_url }}" alt="" /></span>
+
+
 <u>Step 4 : Adding more RAMS</u>
 
 - Check your total amount of computer’s RAM -> Go to task manager and click Performance tab.
 - Then, take a look at the RAM resource under Memory.
+
+<span class="image center"><img src="{{ 'assets/images/ram.png' | relative_url }}" alt="" /></span>
+
