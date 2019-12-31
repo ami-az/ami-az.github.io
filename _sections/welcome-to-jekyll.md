@@ -1,11 +1,8 @@
 ---
-title: Welcome to Jekyll!
+title: Welcome Hooman!
 icon: fa-check
 order: 5
+published: true
 ---
 
-This Jekyll theme lets you build as many of these sections as you want. They live in the _sections folder in your project's root directory. For some examples, see the [GitHub repository](https://github.com/chrisbobbe/jekyll-theme-prologue). Just be sure to add some [frontmatter](https://jekyllrb.com/docs/frontmatter/) to each section.
-
-All sections have titles, which are listed in the site's navigation menu. At the top of each section, the section's title will render by default (e.g., Welcome to Jekyll!). If you want it to show something different (see Intro), add **auto-header: none** to your frontmatter, and add your text in a <h2> tag inside a <header> tag outside the frontmatter. You'll want to give each section an **order** parameter, also in the frontmatter, or it won't know where to put itself and will hide. Icons are from [Font Awesome](https://fontawesome.com/icons).
-
-You may notice that this section is written in Markdown -- either Markdown or html works!
+Lil bit throwback here. Started playing back in highschool, most of us dont have our own pc so every weekend we play at the cybercafe together, it was fun, spent the whole day playing DoTA, sometimes from 10am to 4pm, 6 hours straight. We would fight with other dota teams in our school and even joined a tournament once, we lost in the first stage obviously but was worth it. Finished highschool and all of us went our different ways, some took up csgo, or mobile legend, or fornite, or just stopped playing cause we are so busy. It's hard to have party as great as those guys. I still play sometimes, for nostalgia sake.
