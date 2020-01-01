@@ -2,8 +2,6 @@
 title: Soon!
 author: Ami-AZ
 layout: post
-icon: fa-lightbulb
-icon-style: regular
 
 ---
 
@@ -21,27 +19,27 @@ Soon!
     <tbody>
       <tr>
         <td>Item 1</td>
-        <td>Ante turpis integer aliquet porttitor.</td>
+        <td>Arduino UNO </td>
         <td>29.99</td>
       </tr>
       <tr>
         <td>Item 2</td>
-        <td>Vis ac commodo adipiscing arcu aliquet.</td>
+        <td>PIR Motion Sensor</td>
         <td>19.99</td>
       </tr>
       <tr>
         <td>Item 3</td>
-        <td> Morbi faucibus arcu accumsan lorem.</td>
+        <td> Temperature Sensor.</td>
         <td>29.99</td>
       </tr>
       <tr>
         <td>Item 4</td>
-        <td>Vitae integer tempus condimentum.</td>
+        <td>Water Sensor</td>
         <td>19.99</td>
       </tr>
       <tr>
         <td>Item 5</td>
-        <td>Ante turpis integer aliquet porttitor.</td>
+        <td>LoRa Shield</td>
         <td>29.99</td>
       </tr>
     </tbody>
