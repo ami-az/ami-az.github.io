@@ -26,10 +26,10 @@ published: true
 <font color="black">Step 3: Check if your Computer is Infected by Virus</font>
 
 - Imo, the most reliable (at the moment) and free antivirus to scan your computer system is Malwarebytes.
-- Free Download (no commission tho) -> http://www.malwarebytes.com
+- Free Download (no commission tho) -> <font color="blue"><a href="url">http://www.malwarebytes.com</a></font>
 - Remember this is for scanning and virus removal only ( real time protection needs premium account).
 - You guys can install Avast or Smadav free antivirus software. ( Currently I’m using Avast).
-- Next, if you guys experiencing situation below then you should install Adwcleaner. (http://www.malwarebytes.com/adwcleaner )
+- Next, if you guys experiencing situation below then you should install Adwcleaner. <font color="blue"><a href="url">(http://www.malwarebytes.com/adwcleaner)</a></font>
 
 <span class="image center"><img src="{{ 'assets/images/adwcleaner.png' | relative_url }}" alt="" /></span>
 
@@ -39,13 +39,13 @@ published: true
 <span class="image center"><img src="{{ 'assets/images/ram.png' | relative_url }}" alt="" alt="" width="300" height="300" /></span>
 
 - If you guys having total amount of RAM below 2GB, then I would highly recommend to upgrade them to have at least 8GB for smoother experience (especially tabbing in Chrome).
-- How to upgrade RAM ? -> download here downloadmoreram.com (scam jk)
+- How to upgrade RAM ? -> download here <font color="blue"><a href="url">downloadmoreram.com</a></font> (scam jk)
 - You need to check your RAM slot in your computer first. If there are empty slots or you may do replacement to the old ones ( check your RAM type eg. ddr3, ddr4).
 - If you guys are inexperienced in doing this, then you should get some help from knowledgeable person.
 
 <font color="black">Step 5: The Ultimate Upgrade for your Computer ( SSD) Get Ready for Zoommm!</font>
 
-- Are you using normal hard disk ? eww are u from 1950s pc users lmao
+- Are you using normal hard disk ? eww are u from 1950s pc users XD
 - Upgrade your hard disk by installing SSD in your computer ( Make it as main C partition).
 - Buy from here <font color="blue"><a href="url">https://shopee.com.my</a></font> -> ( search ‘SSD’ )
 - When you had it, install the SSD inside your laptop/pc. You might want to replace your old hard disk if you don’t have any hard disk slot left.
