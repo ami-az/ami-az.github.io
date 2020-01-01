@@ -18,4 +18,14 @@ published: true
   
 <br>4) To "install the iso", must use rufus tool. Download here -> <font color="blue"><a href="url">https://github.com/pbatard/rufus/releases/download/v3.8/rufus-3.8.exe</font>
   
-<br>5)
+<br>5) Open the rufus tool. 
+ <br> - From the Device drop-down menu, select your USB drive, if it isn't automatically selected.
+  
+<br> - Under "Boot selection", select Disk or ISO image (Please select), if it isn't already chosen, and then click SELECT to choose the .iso file you downloaded.
+<br> - Leave "Image option" set to Standard Windows installation.
+<br> - Leave "Partition scheme" set to GPT.
+<br> - For "Target system", select UEFI (non CSM).
+<br> - Under "Format Options", to ensure the flash drive is compatible with UEFI, select FAT32 for "File System".
+<br> - To create the flash drive with the "Press any key to boot from USB" prompt at startup, under the "Advanced format" options, select Create extended label and icon files.
+<br> - When you are finished selecting options, click Start. When prompted, confirm that you want to erase the flash disk.
+<br> - The .iso files will start copying to the flash drive; the process can take several minutes. When Rufus is done, close the program and eject and remove the flash drive.
