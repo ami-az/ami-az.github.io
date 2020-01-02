@@ -5,6 +5,7 @@ icon: fa-book
 order: 3
 published: true
 ---
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -57,5 +58,4 @@ published: true
   <div class="middle">
     <div class="text">Study</div>
   </div>
-    
-    asd
+
