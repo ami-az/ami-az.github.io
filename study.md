@@ -15,7 +15,7 @@ img {
 </style>
 </head>
 <body>
-
+hoho
 <img src="assets/images/s1.jpg" alt="HTML5 Icon" width="128" height="128">
 <img src="assets/images/s1.jpg" alt="HTML5 Icon" style="width:128px;height:128px;">
 
