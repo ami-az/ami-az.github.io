@@ -1,7 +1,6 @@
 ---
 title: Motivation List
-subtitle: Oops!
-layout: page
+layout: blog
 icon: fa-book
 order: 3
 published: true
