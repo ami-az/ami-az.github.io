@@ -47,8 +47,7 @@ published: true
           <button class="btn btn-success" onclick=" window.open('https://ami-az.github.io/assets/images/gsmalert.jpg','_blank')">See Full Image</button>
         </header>
           </div>
-</div>
- <span style="opacity:0;">This sentence is invisible</span>                                                                                                       
+  </div>
 The device has the looping functionality that will create a continuous condition if the reading from the water sensor and temperature sensor stay above the limit that set on the device. This function was created considering the real time situation of detection that require the continuous alert to indicate the urgency of the situation to the users.
 </div>              
 <hr  />
