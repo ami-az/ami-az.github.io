@@ -1,8 +1,7 @@
 ---
 title: Art
-subtitle: Oops!
 layout: page
-icon: fa-ice-cream
+icon: fa-palette
 order: 4
 published: true
 ---
