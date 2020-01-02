@@ -10,8 +10,8 @@ published: true
 - This a safety multi-detection device for camping usage and made portable with triple sensors consist of motion, water and temperature rise detection. 
 - The device prototype equipped with two alert mechanisms, a buzzer and GSM network that send txt message to the user when the device detected somethings(intruders/conditions). 
 - Has troubleshooting mode which using a LCD to display current temperature , water level status and GSM condition.
-
-<h4><u>System Design</u></h4>
+<hr />
+<h3><u>System Design</u></h3>
 <div class="4u 12u$(mobile)">
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/images/systemdesign.PNG' | relative_url }}" alt="Ipsum Feugiat" /></a>
@@ -21,7 +21,7 @@ published: true
         
   </div>
 </div>
-
+<hr />
 
 <div class="row">
 <div class="4u 12u$(mobile)">
