@@ -52,12 +52,12 @@ published: true
 </style>
 </head>
   
-<div class="container">
+<div class="row">
+ <div class="container">
   <a href="https://ami-az.github.io/study.html"><img src="assets/images/study.jpg" alt="Avatar" class="image" style="width:100%">
   <div class="middle">
     <div class="text">Study</div>
   </div>
-    </div>
   
 <div class="container">
   <a href="https://ami-az.github.io/study.html"><img src="assets/images/lifestyle.jpg" alt="Avatar" class="image" style="width:100%">
