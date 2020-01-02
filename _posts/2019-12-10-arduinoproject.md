@@ -48,7 +48,8 @@ published: true
         </header>
           </div>
 </div>
-  <p align="center">The device has the looping functionality that will create a continuous condition if the reading from the water sensor and temperature sensor stay above the limit that set on the device. This function was created considering the real time situation of detection that require the continuous alert to indicate the urgency of the situation to the users.</p>
+<hr width="1" size="500">
+The device has the looping functionality that will create a continuous condition if the reading from the water sensor and temperature sensor stay above the limit that set on the device. This function was created considering the real time situation of detection that require the continuous alert to indicate the urgency of the situation to the users.</p>
 </div>              
 <hr  />
 <h3 align="center">Prototype</h3>
@@ -97,4 +98,3 @@ published: true
 <h3>Arduino Source Code </h3>
 
 <button class="btn btn-success" onclick=" window.open('https://raw.githubusercontent.com/ami-az/Arduino-Project-Codes/master/camper-safety-pro-tech.md','_blank')">See Full Code Here</button>
-
