@@ -44,7 +44,7 @@ published: true
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/images/troubleshooting.PNG' | relative_url }}" alt="Ipsum Feugiat" /></a>
         <header>
-          <h3>Troubleshooting</h3>
+          <h3>LCD Troubleshooting</h3>
         </header>
   </div>
 </div>
