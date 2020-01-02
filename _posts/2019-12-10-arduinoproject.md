@@ -12,8 +12,6 @@ published: true
 - Has troubleshooting mode which using a LCD to display current temperature , water level status and GSM condition.
 
 <u>System Design Flow Chart</u>
-<span class="image center"><img src="{{ 'assets/images/systemdesign.PNG' | relative_url }}" alt="" /></span>
-
 <div class="4u 12u$(mobile)">
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/images/systemdesign.PNG' | relative_url }}" alt="Ipsum Feugiat" /></a>
