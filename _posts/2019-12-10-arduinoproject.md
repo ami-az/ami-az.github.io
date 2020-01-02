@@ -13,7 +13,7 @@ published: true
 <hr />
 
 <h3 align="center">System Design</h3>
-
+<div class="row">
 <div class="4u 12u$(mobile)">
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/images/systemdesign.PNG' | relative_url }}" alt="Ipsum Feugiat" /></a>
@@ -23,7 +23,18 @@ published: true
         
   </div>
 </div>
-<button onclick="window.location.href = 'https://ami-az.github.io/assets/images/systemdesign.PNG','_blank'">Full Size Image</button>
+<button onclick="window.location.href = 'https://ami-az.github.io/assets/images/systemdesign.PNG','_blank'">See Full Image</button>
+
+<div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/pricing table.PNG' | relative_url }}" alt="Ipsum Feugiat" /></a>
+        <header>
+          <h3>Pricing Table</h3>
+        </header>
+  </div>
+</div>
+   </div>
+   
 <hr />
 
 <div class="row">
