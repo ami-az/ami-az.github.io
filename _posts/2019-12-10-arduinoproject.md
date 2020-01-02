@@ -14,7 +14,12 @@ published: true
 <u>System Design Flow Chart</u>
 <span class="image center"><img src="{{ 'assets/images/systemdesign.PNG' | relative_url }}" alt="" /></span>
 
-<span class="image center"><img src="{{ 'assets/images/systemdesign.PNG' | relative_url }}" alt="" width="200" height="600" /></span>
+<div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/troubleshooting.PNG' | relative_url }}" alt="Ipsum Feugiat" /></a>
+        
+  </div>
+</div>
 
 
 <div class="row">
