@@ -5,7 +5,7 @@ layout: post
 published: true
 ---
 
-<h2>Camper Safety Pro-Tech</h2>
+<h3>Camper Safety Pro-Tech</h3>
 
 - This a safety multi-detection device for camping usage and made portable with triple sensors consist of motion, water and temperature rise detection. 
 - The device prototype equipped with two alert mechanisms, a buzzer and GSM network that send txt message to the user when the device detected somethings(intruders/conditions). 
