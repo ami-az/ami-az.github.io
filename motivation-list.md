@@ -1,8 +1,9 @@
 ---
 title: Motivation List
-layout: blog
+layout: page
 icon: fa-book
 order: 3
+hide: true
 published: true
 ---
 <html>
