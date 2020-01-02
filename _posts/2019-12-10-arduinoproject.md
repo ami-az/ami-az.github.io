@@ -31,6 +31,7 @@ published: true
         <a href="#" class="image fit"><img src="{{ 'assets/images/pricetable.PNG' | relative_url }}" alt="Ipsum Feugiat" /></a>
         <header>
           <h3>Pricing Table</h3>
+          <button class="btn btn-success" onclick=" window.open('https://ami-az.github.io/assets/images/pricetable.PNG','_blank')">See Full Image</button>
         </header>
   </div>
 </div>
