@@ -54,9 +54,10 @@ published: true
 <body>
 
 <div class="container">
-  <img src="assets/images/study.jpg" alt="Avatar" class="image" style="width:100%">
-  
-  <div class="middle">
+  <!--<img src="assets/images/study.jpg" alt="Avatar" class="image" style="width:100%">-->
+  <a href="https://ami-az.github.io/">
+<img border="0" alt="W3Schools" src="assets/images/study.jpg" width="100" height="100">
+  <div class="left">
     <div class="text">Study</div>
   </div>
 </div>
