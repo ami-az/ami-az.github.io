@@ -105,3 +105,18 @@ div.desc {
   
 </body>
 </html>
+#wrapper .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#wrapper:hover .text {
+visibility:visible;
+}
+
+<div id="wrapper">
+<img src="http://placehold.it/300x200" class="hover" />
+<p class="text">text</p>
+</div>
