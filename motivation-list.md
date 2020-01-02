@@ -5,117 +5,113 @@ icon: fa-laugh-beam
 order: 3
 published: true
 ---
-
-<h1 class="main-title">Simple image overlay hover effects</h1>
-
 <div class="container">
-  <h3 class="title">Text fadeIn bottom</h3>
-  <div class="content">
-    <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
-      <div class="content-overlay"></div>
-      <img class="content-image" src="https://images.unsplash.com/photo-1433360405326-e50f909805b3?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=359e8e12304ffa04a38627a157fc3362">
-      <div class="content-details fadeIn-bottom">
-        <h3 class="content-title">This is a title</h3>
-        <p class="content-text">This is a short description</p>
-      </div>
-    </a>
-  </div>
-</div>
+    <div class="row">
 
-<div class="container">
-  <h3 class="title">Text fadeIn top</h3>
-  <div class="content">
-    <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
-      <div class="content-overlay"></div>
-      <img class="content-image" src="https://images.unsplash.com/photo-1433360405326-e50f909805b3?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=359e8e12304ffa04a38627a157fc3362">
-      <div class="content-details fadeIn-top">
-        <h3>This is a title</h3>
-        <p>This is a short description</p>
-      </div>
-    </a>
-  </div>
-</div>
 
-<div class="container">
-  <h3 class="title">Text fadeIn left</h3>
-  <div class="content">
-    <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
-      <div class="content-overlay"></div>
-      <img class="content-image" src="https://images.unsplash.com/photo-1433360405326-e50f909805b3?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=359e8e12304ffa04a38627a157fc3362">
-      <div class="content-details fadeIn-left">
-        <h3>This is a title</h3>
-        <p>This is a short description</p>
-      </div>
-    </a>
-  </div>
-</div>
+    <!-- TH1 -->
+        <div class="col-sm-4">
+            <div class="thumbnail">
+              <a href="#" class="">
+                <div class="caption">
+                     <h4 class="">Thumbnail Headline</h4>
 
-<div class="container">
-  <h3 class="title">Text fadeIn right</h3>
-  <div class="content">
-    <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
-      <div class="content-overlay"></div>
-      <img class="content-image" src="https://images.unsplash.com/photo-1433360405326-e50f909805b3?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=359e8e12304ffa04a38627a157fc3362">
-      <div class="content-details fadeIn-right">
-        <h3>This is a title</h3>
-        <p>This is a short description</p>
-      </div>
-    </a>
-  </div>
-</div>
+                    <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
 
-<div class="container">
-  <h3 class="title">Text fadeIn top left</h3>
-  <div class="content">
-    <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
-      <div class="content-overlay"></div>
-      <img class="content-image" src="https://images.unsplash.com/photo-1433360405326-e50f909805b3?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=359e8e12304ffa04a38627a157fc3362">
-      <div class="content-details fadeIn-top fadeIn-left">
-        <h3>This is a title</h3>
-        <p>This is a short description</p>
-      </div>
-    </a>
-  </div>
-</div>
 
-<div class="container">
-  <h3 class="title">Text fadeIn top right</h3>
-  <div class="content">
-    <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
-      <div class="content-overlay"></div>
-      <img class="content-image" src="https://images.unsplash.com/photo-1433360405326-e50f909805b3?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=359e8e12304ffa04a38627a157fc3362">
-      <div class="content-details fadeIn-top fadeIn-right">
-        <h3>This is a title</h3>
-        <p>This is a short description</p>
-      </div>
-    </a>
-  </div>
-</div>
+</p>
+                </div>
+                <img src="http://lorempixel.com/400/300/technics/1/" alt="..." class="">
+               </a>
+            </div>
+        </div>
 
-<div class="container">
-  <h3 class="title">Text fadeIn bottom left</h3>
-  <div class="content">
-    <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
-      <div class="content-overlay"></div>
-      <img class="content-image" src="https://images.unsplash.com/photo-1433360405326-e50f909805b3?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=359e8e12304ffa04a38627a157fc3362">
-      <div class="content-details fadeIn-bottom fadeIn-left">
-        <h3>This is a title</h3>
-        <p>This is a short description</p>
-      </div>
-    </a>
-  </div>
-</div>
+        <!-- TH2 -->
+        <div class="col-sm-4">
+            <div class="thumbnail">
+              <a href="#" class="">
+                <div class="caption">
+                     <h4 class="">Thumbnail Headline</h4>
 
-<div class="container">
-  <h3 class="title">Text fadeIn bottom right</h3>
-  <div class="content">
-    <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
-      <div class="content-overlay"></div>
-      <img class="content-image" src="https://images.unsplash.com/photo-1433360405326-e50f909805b3?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=359e8e12304ffa04a38627a157fc3362">
-      <div class="content-details fadeIn-bottom fadeIn-right">
-        <h3>This is a title</h3>
-        <p>This is a short description</p>
-      </div>
-    </a>
-  </div>
-</div>
+                    <p class="">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium
+
+
+
+</p>
+                </div>
+                <img src="http://lorempixel.com/400/300/technics/2/" alt="..." class="">
+                </a>
+            </div>
+        </div>
+
+        <!-- TH2 -->
+        <div class="col-sm-4">
+            <div class="thumbnail">
+              <a href="#" class="">
+                <div class="caption">
+                     <h4 class="">Thumbnail Headline</h4>
+
+                    <p class="">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum
+
+					</p>
+                </div>
+                <img src="http://lorempixel.com/400/300/technics/3/" alt="..." class="">
+			</a>
+            </div>
+        </div>
+
+        <!-- TH4 -->
+        <div class="col-sm-4">
+            <div class="thumbnail">
+                <div class="caption">
+                     <h4 class="">Thumbnail Headline</h4>
+
+                    <p class="">
+
+<a href="#" class="label label-default">Open</a>
+
+</p>
+                </div>
+                <img src="http://lorempixel.com/400/300/technics/4/" alt="..." class="">
+            </div>
+        </div>  
+
+        <!-- TH5 -->
+        <div class="col-sm-4">
+            <div class="thumbnail">
+                <div class="caption">
+                     <h4 class="">Thumbnail Headline</h4>
+
+                    <p class="">
+
+<a href="#" class="label label-default">Open</a>
+
+</p>
+                </div>
+                <img src="http://lorempixel.com/400/300/technics/5/" alt="..." class="">
+            </div>
+        </div>
+
+
+        <!-- TH6 -->
+        <div class="col-sm-4">
+            <div class="thumbnail">
+                <div class="caption">
+                     <h4 class="">Thumbnail Headline</h4>
+
+                    <p class="">
+
+<a href="#" class="label label-default">Open</a>
+
+</p>
+                </div>
+                <img src="http://lorempixel.com/400/300/technics/7/" alt="..." class="">
+            </div>
+        </div>
+
+        <!-- TH6 -->
+
+
+    </div><!--/row -->
+
+</div> <!-- end container -->
