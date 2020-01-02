@@ -15,9 +15,11 @@ Camper Safety Pro-Tech
 <u>System Design Flow Chart</u>
 <span class="image center"><img src="{{ 'assets/images/systemdesign.PNG' | relative_url }}" alt="" /></span>
 
+<span class="image center"><img src="{{ 'assets/images/systemdesign.PNG' | relative_url }}" alt="" alt="" width="300" height="800"  /></span>
+
+
 <span class="image center"><img src="{{ 'assets/images/troubleshooting.PNG' | relative_url }}" alt="" /></span>
 
 <span class="image center"><img src="{{ 'assets/images/projectcase.PNG' | relative_url }}" alt="" /></span>
 
 <span class="image center"><img src="{{ 'assets/images/wiringcase.PNG' | relative_url }}" alt="" /></span>
-
