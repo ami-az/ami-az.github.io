@@ -49,7 +49,8 @@ published: true
   font-size: 16px;
   padding: 16px 32px;
 }
-
+</style>
+</head>
   
 <div class="container">
   <a href="https://ami-az.github.io/study.html"><img src="assets/images/study.jpg" alt="Avatar" class="image" style="width:100%">
