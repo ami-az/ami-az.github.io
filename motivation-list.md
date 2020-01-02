@@ -6,6 +6,9 @@ order: 3
 published: true
 ---
 
+<!DOCTYPE html>
+<html>
+<head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .container {
@@ -42,16 +45,24 @@ published: true
 }
 
 .text {
-  background-color: #D291BC;
+  background-color: #4CAF50;
   color: white;
   font-size: 16px;
   padding: 16px 32px;
 }
 </style>
+</head>
+<body>
+
+<h2>Opacity with Box</h2>
+<p>Hover over the image to see the effect.</p>
+
+<div class="container">
+  <img src="assets/images/study.jpg" alt="Avatar" class="image" style="width:100%">
   
-<div class="row">
- <div class="container">
-  <a href="https://ami-az.github.io/study.html"><img src="assets/images/study.jpg" alt="Avatar" class="image" style="width:100%">
   <div class="middle">
     <div class="text">Study</div>
   </div>
+</div>
+</body>
+</html>
