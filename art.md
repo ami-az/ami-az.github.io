@@ -74,9 +74,7 @@ div.desc {
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="q2.jpg">
-      <img src="assets/quote/q2.jpg" alt="Forest" width="600" height="400">
-    </a>
-    <div class="desc">Add a description of the image here</div>
+      <img src="assets/quote/q2.jpg" alt="Forest" width="600" height="400"></a>
   </div>
 </div>
 
