@@ -20,8 +20,7 @@ published: true
         <header>
           <h3>Flow Chart</h3>
           <button class="btn btn-success" onclick=" window.open('https://ami-az.github.io/assets/images/systemdesign.PNG','_blank')">See Full Image</button>
-        </header>
-        
+        </header>       
   </div>
 </div>
   
