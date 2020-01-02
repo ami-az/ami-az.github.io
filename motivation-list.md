@@ -5,8 +5,7 @@ icon: fa-laugh-beam
 order: 3
 published: true
 ---
-<html>
-<head>
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .container {
@@ -49,7 +48,6 @@ published: true
   padding: 16px 32px;
 }
 </style>
-</head>
   
 <div class="row">
  <div class="container">
