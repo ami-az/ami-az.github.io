@@ -58,6 +58,4 @@ published: true
   <div class="left">
     <div class="text">Study</div>
   </div>
-</div>
-</body>
-</html>
+
