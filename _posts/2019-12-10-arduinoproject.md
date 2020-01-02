@@ -19,9 +19,13 @@ published: true
 
 <span class="image center"><img src="{{ 'assets/images/troubleshooting.PNG' | relative_url }}" alt="" width="100" height="150" /></span>
 
-<span class="image left"><img src="{{ 'assets/images/projectcase.PNG' | relative_url }}" alt="" width="100" height="150" /></span>
+<div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/projectcase.PNG' | relative_url }}" alt="Ipsum Feugiat" /></a>
+      
+  </div>
+</div>
 
-<span class="image left"><img src="{{ 'assets/images/wiringcase.PNG' | relative_url }}" alt="" width="50" height="50" /></span>
 
 <div class="4u 12u$(mobile)">
       <div class="item">
