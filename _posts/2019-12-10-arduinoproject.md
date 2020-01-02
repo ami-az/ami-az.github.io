@@ -24,8 +24,7 @@ published: true
         
   </div>
 </div>
-<br>
-
+  
 <div class="4u 12u$(mobile)">
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/images/pricetable.PNG' | relative_url }}" alt="Ipsum Feugiat" /></a>
