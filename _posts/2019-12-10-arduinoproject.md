@@ -42,7 +42,7 @@ published: true
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/images/gsmalert.jpg' | relative_url }}" alt="Ipsum Feugiat" /></a>
         <header>
-          <h3>Pricing Table</h3>
+          <h3>GSM Alert Mechanism</h3>
           <button class="btn btn-success" onclick=" window.open('https://ami-az.github.io/assets/images/gsmalert.jpg','_blank')">See Full Image</button>
         </header>
           </div>
