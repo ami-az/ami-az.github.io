@@ -11,7 +11,7 @@ published: true
 - The device prototype equipped with two alert mechanisms, a buzzer and GSM network that send txt message to the user when the device detected somethings(intruders/conditions). 
 - Has troubleshooting mode which using a LCD to display current temperature , water level status and GSM condition.
 <hr />
-<h3><u>System Design</u></h3>
+<h3>System Design</h3>
 <div class="4u 12u$(mobile)">
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/images/systemdesign.PNG' | relative_url }}" alt="Ipsum Feugiat" /></a>
@@ -21,6 +21,7 @@ published: true
         
   </div>
 </div>
+<button onclick="window.location.href = 'https://ami-az.github.io/assets/images/systemdesign.PNG';">Full Size Image</button>
 <hr />
 
 <div class="row">
@@ -52,3 +53,7 @@ published: true
   </div>
 </div>
  
+<hr />
+
+<h3>Arduino Source Code </h3>
+<button onclick="window.location.href = 'https://raw.githubusercontent.com/ami-az/Arduino-Project-Codes/master/camper-safety-pro-tech.md';">See Full Code Here</button>
