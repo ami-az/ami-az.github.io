@@ -48,7 +48,7 @@ published: true
         </header>
           </div>
 </div>
-  <p align="right">meow The device has the looping functionality that will create a continuous condition if the reading from the water sensor and temperature sensor stay above the limit that set on the device. This function was created considering the real time situation of detection that require the continuous alert to indicate the urgency of the situation to the users.</p>
+  <p align="center">meow The device has the looping functionality that will create a continuous condition if the reading from the water sensor and temperature sensor stay above the limit that set on the device. This function was created considering the real time situation of detection that require the continuous alert to indicate the urgency of the situation to the users.</p>
 </div>              
 <hr  />
 <h3 align="center">Prototype</h3>
