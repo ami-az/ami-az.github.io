@@ -38,6 +38,7 @@ published: true
 <hr />
 <h3 align="center">Results</h3>
 
+<div class="row">
 <div class="4u 12u$(mobile)">
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/images/gsmalert.jpg' | relative_url }}" alt="Ipsum Feugiat" /></a>
@@ -47,7 +48,8 @@ published: true
         </header>
           </div>
 </div>
-              
+The device has the looping functionality that will create a continuous condition if the reading from the water sensor and temperature sensor stay above the limit that set on the device. This function was created considering the real time situation of detection that require the continuous alert to indicate the urgency of the situation to the users.
+</div>              
 <hr  />
 <h3 align="center">Prototype</h3>
 
