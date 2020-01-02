@@ -67,6 +67,7 @@ div.desc {
     <a target="_blank" href="q1.jpg">
       <img src="assets/quote/q1.jpg" alt="Cinque Terre" width="600" height="400">
     </a>
+    </div>
 </div>
 
 
