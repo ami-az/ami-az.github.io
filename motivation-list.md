@@ -56,9 +56,6 @@ Upcoming!
 </head>
 <body>
 
-<h2>Opacity with Box</h2>
-<p>Hover over the image to see the effect.</p>
-
 <div class="container">
   <img src="assets/images/study.jpg" alt="Avatar" class="image" style="width:100%">
   
