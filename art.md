@@ -83,8 +83,8 @@ div.desc {
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img_lights.jpg">
-      <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
+    <a target="_blank" href="q3.jpg">
+      <img src="assets/quote/q3.jpg" alt="Northern Lights" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
@@ -92,8 +92,8 @@ div.desc {
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img_mountains.jpg">
-      <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
+    <a target="_blank" href="q4.png">
+      <img src="assets/quote/q4.png" alt="Mountains" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
