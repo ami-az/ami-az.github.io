@@ -58,16 +58,26 @@ published: true
   </div>
 </div>
    </div>
+   
+ <div  class="row">
+<div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/projectcase1.PNG' | relative_url }}" alt="Ipsum Feugiat" /></a>
+      <header>
+          <h3>Complete Prototype(1)</h3>
+        </header>
+  </div>
+</div>
 
 <div class="4u 12u$(mobile)">
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/images/projectcase.PNG' | relative_url }}" alt="Ipsum Feugiat" /></a>
       <header>
-          <h3>Complete Prototype</h3>
+          <h3>Complete Prototype(2)</h3>
         </header>
   </div>
 </div>
- 
+</div> 
 <hr />
 
 <h3>Arduino Source Code </h3>
