@@ -21,7 +21,7 @@ published: true
         
   </div>
 </div>
-<button onclick="window.location.href = 'https://ami-az.github.io/assets/images/systemdesign.PNG';">Full Size Image</button>
+<button onclick="window.location.href = 'https://ami-az.github.io/assets/images/systemdesign.PNG','_blank'">Full Size Image</button>
 <hr />
 
 <div class="row">
