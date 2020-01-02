@@ -49,7 +49,7 @@ published: true
           </div>
 </div>
  <span style="opacity:0;">This sentence is invisible</span>                                                                                                       
-The device has the looping functionality that will create a continuous condition if the reading from the water sensor and temperature sensor stay above the limit that set on the device. This function was created considering the real time situation of detection that require the continuous alert to indicate the urgency of the situation to the users.</p>
+The device has the looping functionality that will create a continuous condition if the reading from the water sensor and temperature sensor stay above the limit that set on the device. This function was created considering the real time situation of detection that require the continuous alert to indicate the urgency of the situation to the users.
 </div>              
 <hr  />
 <h3 align="center">Prototype</h3>
