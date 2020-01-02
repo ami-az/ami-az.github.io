@@ -14,7 +14,7 @@ published: true
 <u>System Design Flow Chart</u>
 <span class="image center"><img src="{{ 'assets/images/systemdesign.PNG' | relative_url }}" alt="" /></span>
 
-<span class="image center"><img src="{{ 'assets/images/systemdesign.PNG' | relative_url }}" alt="" alt="" width="100" height="800"  /></span>
+<img src="assets/images/systemdesign.PNG" alt="HTML5 Icon" width="128" height="128">
 
 <span class="image center"><img src="{{ 'assets/images/troubleshooting.PNG' | relative_url }}" alt="" /></span>
 
