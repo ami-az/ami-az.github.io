@@ -53,10 +53,9 @@ published: true
 <body>
 
 <div class="container">
-  <a href="https://ami-az.github.io/"><img src="assets/images/study.jpg" alt="Avatar" class="image" style="width:100%">
+  <a href="https://ami-az.github.io/study.html"><img src="assets/images/study.jpg" alt="Avatar" class="image" style="width:100%">
   <div class="middle">
     <div class="text">Study</div>
   </div>
     
     asd
-
