@@ -1,8 +1,8 @@
 ---
 title: Study Inspiration
-layout: page
+layout: post
 icon: fa-book
 order: 3
-hide: true
+
 published: true
 ---
