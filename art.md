@@ -6,8 +6,6 @@ icon: fa-book
 order: 4
 published: true
 ---
-
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -76,8 +74,8 @@ div.desc {
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img_forest.jpg">
-      <img src="img_forest.jpg" alt="Forest" width="600" height="400">
+    <a target="_blank" href="taskmanager.png">
+      <img src="assets/images/taskmanager.png" alt="Forest" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
