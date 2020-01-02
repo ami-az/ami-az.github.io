@@ -47,7 +47,7 @@ Upcoming!
 }
 
 .text {
-  background-color: #E0BBE4;
+  background-color: #D291BC;
   color: white;
   font-size: 16px;
   padding: 16px 32px;
