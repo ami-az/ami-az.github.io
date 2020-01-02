@@ -36,6 +36,9 @@ published: true
    </div>
    
 <hr />
+<h3 align="center">Results</h3>
+
+<hr  />
 
 <div class="row">
 <div class="4u 12u$(mobile)">
