@@ -2,7 +2,7 @@
 title: Art
 subtitle: Oops!
 layout: page
-icon: fa-book
+icon: fa-ice-cream
 order: 4
 published: true
 ---
