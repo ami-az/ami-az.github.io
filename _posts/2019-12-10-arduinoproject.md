@@ -59,3 +59,6 @@ published: true
 
 <h3>Arduino Source Code </h3>
 <button onclick="window.location.href = 'https://raw.githubusercontent.com/ami-az/Arduino-Project-Codes/master/camper-safety-pro-tech.md';">See Full Code Here</button>
+
+<input type="button" value="Open Window"
+onclick="window.open('http://www.google.com')">
