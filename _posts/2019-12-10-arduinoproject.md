@@ -11,7 +11,7 @@ published: true
 - The device prototype equipped with two alert mechanisms, a buzzer and GSM network that send txt message to the user when the device detected somethings(intruders/conditions). 
 - Has troubleshooting mode which using a LCD to display current temperature , water level status and GSM condition.
 <hr />
-<h3>System Design</h3>
+<h3 align="center">System Design</h3>
 <div class="4u 12u$(mobile)">
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/images/systemdesign.PNG' | relative_url }}" alt="Ipsum Feugiat" /></a>
