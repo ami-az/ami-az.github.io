@@ -15,8 +15,8 @@ img {
 </style>
 </head>
 <body>
-hoho
-<img src="https://ami-az.github.io/assets/images/s1.jpg" alt="HTML5 Icon" style="width:128px;height:128px;">
+
+<img src="https://ami-az.github.io/assets/images/s1.jpg" alt="HTML5 Icon" style="width:200px;height:200px;">
 
 </body>
 </html>
