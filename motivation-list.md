@@ -2,7 +2,7 @@
 title: Motivation List
 layout: page
 icon: fa-book
-order: 3
+order: 0
 hide: true
 published: true
 ---
