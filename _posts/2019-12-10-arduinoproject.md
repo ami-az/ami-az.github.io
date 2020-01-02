@@ -40,6 +40,7 @@ published: true
         </header>
   </div>
 </div>
+   </div>
 
 <div class="4u 12u$(mobile)">
       <div class="item">
@@ -49,4 +50,4 @@ published: true
         </header>
   </div>
 </div>
-  </div>
+ 
