@@ -28,17 +28,16 @@ published: true
 
 <div class="4u 12u$(mobile)">
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/projectcase.PNG' | relative_url }}" alt="Ipsum Feugiat" /></a>
-      
+        <a href="#" class="image fit"><img src="{{ 'assets/images/wiringcase.PNG' | relative_url }}" alt="Ipsum Feugiat" /></a>
+        <header>
+          <h3>Wiring Inside Case</h3>
+        </header>
   </div>
 </div>
 
-
 <div class="4u 12u$(mobile)">
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/wiringcase.PNG' | relative_url }}" alt="Ipsum Feugiat" /></a>
-        <header>
-          <h3>Ipsum Feugiat</h3>
-        </header>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/projectcase.PNG' | relative_url }}" alt="Ipsum Feugiat" /></a>
+      
   </div>
 </div>
