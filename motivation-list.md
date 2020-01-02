@@ -58,4 +58,6 @@ published: true
   <div class="middle">
     <div class="text">Study</div>
   </div>
+    
+    asd
 
