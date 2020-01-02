@@ -19,11 +19,12 @@ published: true
         <a href="#" class="image fit"><img src="{{ 'assets/images/systemdesign.PNG' | relative_url }}" alt="Ipsum Feugiat" /></a>
         <header>
           <h3>Flow Chart</h3>
+          <button onclick="window.location.href = 'https://ami-az.github.io/assets/images/systemdesign.PNG','_blank'">See Full Image</button>
         </header>
         
   </div>
 </div>
-<br><button onclick="window.location.href = 'https://ami-az.github.io/assets/images/systemdesign.PNG','_blank'">See Full Image</button>
+<br>
 
 <div class="4u 12u$(mobile)">
       <div class="item">
