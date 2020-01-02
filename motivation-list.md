@@ -3,7 +3,6 @@ title: Motivation List
 layout: page
 icon: fa-book
 order: 3
-hide: true
 published: true
 ---
 <html>
