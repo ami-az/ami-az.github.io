@@ -105,8 +105,8 @@ body {font-family: Arial, Helvetica, sans-serif;}
 <p>In this example, we use CSS to create a modal (dialog box) that is hidden by default.</p>
 <p>We use JavaScript to trigger the modal and to display the current image inside the modal when it is clicked on. Also note that we use the value from the image's "alt" attribute as an image caption text inside the modal.</p>
 
-<img id="myImg" src="img_snow.jpg" alt="Snow" style="width:100%;max-width:300px">
-<img id="myImg2" src="img_snow.jpg" alt="ss" style="width:100%;max-width:300px">
+<img id="myImg" src="https://ami-az.github.io/assets/images/pricetable.PNG" alt="Snow" style="width:100%;max-width:300px">
+<img id="myImg2" src="https://ami-az.github.io/assets/images/projectcase.PNG" alt="ss" style="width:100%;max-width:300px">
 
 <!-- The Modal -->
 <div id="myModal" class="modal">
