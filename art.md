@@ -179,7 +179,7 @@ img.hover-shadow {
 
     <div class="mySlides">
       <div class="numbertext">2 / 4</div>
-      <img src="img_snow_wide.jpg" style="width:100%">
+      <img src="assets/images/quote1.jpg" style="width:100%">
     </div>
 
     <div class="mySlides">
