@@ -35,10 +35,10 @@ published: true
     <img src="assets/images/quote1.jpg" alt="Snow" style="width:100%">
   </div>
   <div class="column">
-    <img src="assets/images/quote1.jpg" alt="Forest" style="width:100%">
+    <img src="https://ami-az.github.io/assets/images/pricetable.PNG" alt="Forest" style="width:100%">
   </div>
   <div class="column">
-    <img src="assets/images/quote1.jpg" alt="Mountains" style="width:100%">
+    <img src="https://ami-az.github.io/assets/images/pricetable.PNG" alt="Mountains" style="width:100%">
   </div>
 </div>
   
