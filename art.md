@@ -5,117 +5,71 @@ icon: fa-palette
 order: 4
 published: true
 ---
-<html>
-<head>
-<style>
-div.gallery {
-  border: 1px solid #ccc;
-}
+<!-- Images used to open the lightbox -->
+<div class="row">
+  <div class="column">
+    <img src="https://ami-az.github.io/assets/images/s1.jpg" onclick="openModal();currentSlide(1)" class="hover-shadow">
+  </div>
+  <div class="column">
+    <img src="https://ami-az.github.io/assets/images/s1.jpg" onclick="openModal();currentSlide(2)" class="hover-shadow">
+  </div>
+  <div class="column">
+    <img src="https://ami-az.github.io/assets/images/s1.jpg" onclick="openModal();currentSlide(3)" class="hover-shadow">
+  </div>
+  <div class="column">
+    <img src="https://ami-az.github.io/assets/images/s1.jpg" onclick="openModal();currentSlide(4)" class="hover-shadow">
+  </div>
+</div>
 
-div.gallery:hover {
-  border: 1px solid #777;
-}
+<!-- The Modal/Lightbox -->
+<div id="myModal" class="modal">
+  <span class="close cursor" onclick="closeModal()">&times;</span>
+  <div class="modal-content">
 
-div.gallery img {
-  width: 100%;
-  height: auto;
-}
-
-div.desc {
-  padding: 15px;
-  text-align: center;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-.responsive {
-  padding: 0 6px;
-  float: left;
-  width: 24.99999%;
-}
-
-@media only screen and (max-width: 700px) {
-  .responsive {
-    width: 49.99999%;
-    margin: 6px 0;
-  }
-}
-
-@media only screen and (max-width: 500px) {
-  .responsive {
-    width: 100%;
-  }
-}
-
-.clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
-</head>
-<body>
-
-<h2>Responsive Image Gallery</h2>
-<h4>Resize the browser window to see the effect.</h4>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="q1.jpg">
-      <img src="assets/quote/q1.jpg" alt="Cinque Terre" width="600" height="400">
-    </a>
+    <div class="mySlides">
+      <div class="numbertext">1 / 4</div>
+      <img src="img1_wide.jpg" style="width:100%">
     </div>
-</div>
 
+    <div class="mySlides">
+      <div class="numbertext">2 / 4</div>
+      <img src="img2_wide.jpg" style="width:100%">
+    </div>
 
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="q2.jpg">
-      <img src="assets/quote/q2.jpg" alt="Forest" width="600" height="400"></a>
+    <div class="mySlides">
+      <div class="numbertext">3 / 4</div>
+      <img src="img3_wide.jpg" style="width:100%">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">4 / 4</div>
+      <img src="img4_wide.jpg" style="width:100%">
+    </div>
+
+    <!-- Next/previous controls -->
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+    <!-- Caption text -->
+    <div class="caption-container">
+      <p id="caption"></p>
+    </div>
+
+    <!-- Thumbnail image controls -->
+    <div class="column">
+      <img class="demo" src="img1.jpg" onclick="currentSlide(1)" alt="Nature">
+    </div>
+
+    <div class="column">
+      <img class="demo" src="img2.jpg" onclick="currentSlide(2)" alt="Snow">
+    </div>
+
+    <div class="column">
+      <img class="demo" src="img3.jpg" onclick="currentSlide(3)" alt="Mountains">
+    </div>
+
+    <div class="column">
+      <img class="demo" src="img4.jpg" onclick="currentSlide(4)" alt="Lights">
+    </div>
   </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="q3.jpg">
-      <img src="assets/quote/q3.jpg" alt="Northern Lights" width="600" height="400">
-    </a>
-    <div class="desc">Add a description of the image here</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="q4.png">
-      <img src="assets/quote/q4.png" alt="Mountains" width="600" height="400">
-    </a>
-    <div class="desc">Add a description of the image here</div>
-  </div>
-</div>
-
-<div class="clearfix"></div>
-
-<div style="padding:6px;">
-  <p>This example use media queries to re-arrange the images on different screen sizes: for screens larger than 700px wide, it will show four images side by side, for screens smaller than 700px, it will show two images side by side. For screens smaller than 500px, the images will stack vertically (100%).</p>
-  <p>You will learn more about media queries and responsive web design later in our CSS Tutorial.</p>
-</div>
-  
-</body>
-</html>
-#wrapper .text {
-position:relative;
-bottom:30px;
-left:0px;
-visibility:hidden;
-}
-
-#wrapper:hover .text {
-visibility:visible;
-}
-
-<div id="wrapper">
-<img src="http://placehold.it/300x200" class="hover" />
-<p class="text">text</p>
 </div>
