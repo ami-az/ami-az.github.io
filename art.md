@@ -5,10 +5,29 @@ icon: fa-palette
 order: 4
 published: true
 ---
-<a class="lightbox" href="#dog">
-   <img src="http://i.huffpost.com/gen/749263/original.jpg"/>
-</a> 
-<div class="lightbox-target" id="dog">
-   <img src="http://i.huffpost.com/gen/749263/original.jpg"/>
-   <a class="lightbox-close" href="#"></a>
-</div>
+<img id="img1" class="img" src="http://bit.ly/2acrH5J" />
+<a href="#" class="close"></a>
+<img class="expand" src="Expand-icon.png" />
+
+.img {
+  height: 150px;
+  width: 200px;
+}
+.close {
+  background-image: url("Close-icon.png");
+  background-repeat: no-repeat;
+  bottom: 418px;
+  display: none;
+  height: 32px;
+  left: 462px;
+  margin-top: -32px;
+  position: relative;
+  width: 32px;
+}
+.expand {
+  bottom: 125px;
+  margin-left: -32px;
+  margin-right: 16px;
+  pointer-events: none;
+  position: relative;
+}
