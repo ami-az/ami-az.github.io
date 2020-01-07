@@ -204,10 +204,10 @@ img.hover-shadow {
       <img class="demo cursor" src="https://ami-az.github.io/assets/images/s1.jpg" style="width:100%" onclick="currentSlide(1)" alt="Nature and sunrise">
     </div>
     <div class="column">
-      <img class="demo cursor" src="https://ami-az.github.io/assets/images/s1.jpg" style="width:100%" onclick="currentSlide(2)" alt="Snow">
+      <img class="demo cursor" src="https://ami-az.github.io/assets/images/s3.jpg" style="width:100%" onclick="currentSlide(2)" alt="Snow">
     </div>
     <div class="column">
-      <img class="demo cursor" src="https://ami-az.github.io/assets/images/s1.jpg" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
+      <img class="demo cursor" src="https://ami-az.github.io/assets/images/s4.jpg" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
     </div>
     <div class="column">
       <img class="demo cursor" src="https://ami-az.github.io/assets/images/s1.jpg" style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
