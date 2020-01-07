@@ -8,7 +8,7 @@ published: true
 <img id="img1" class="img" src="http://bit.ly/2acrH5J" />
 <a href="#" class="close"></a>
 <img class="expand" src="Expand-icon.png" />
-
+<style>
 .img {
   height: 150px;
   width: 200px;
@@ -31,3 +31,5 @@ published: true
   pointer-events: none;
   position: relative;
 }
+  
+</style>
