@@ -6,5 +6,58 @@ order: 4
 published: true
 ---
 
-<img style=”height:500px;width:500px; src=”http://bit.ly/2acrH5J”>
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+</style>
+</head>
+<body>
+
+<h2>Images Side by Side</h2>
+<p>How to create side-by-side images with CSS Flexbox:</p>
+
+<div class="row">
+  <div class="column">
+    <img src="assets/images/quote1.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://ami-az.github.io/assets/images/pricetable.PNG" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://ami-az.github.io/assets/images/pricetable.PNG" alt="Mountains" style="width:100%">
+  </div>
+</div>
+  
+  <div class="row">
+  <div class="column">
+    <img src="assets/images/quote1.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="assets/images/quote1.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="assets/images/quote1.jpg" alt="Mountains" style="width:100%">
+  </div>
+      <div class="column">
+    <img src="assets/images/quote1.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>
+
+</body>
+</html>
 
