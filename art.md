@@ -85,6 +85,22 @@ published: true
                 });
             }
         </script>
+       <script>
+            // Change default cells count from 5 to 6
+            $.fn.imagesGrid.defaults.cells = 6;
+            var images = [
+                '/assets/images/1.jpg',
+                'https://ami-az.github.io/assets/images/s1.jpg',
+                'https://ami-az.github.io/assets/images/s2.jpg',
+                
+            ];
+            for (var i = 0; i < images.length; ++i) {
+                $('#gallery-' + (i + 1)).imagesGrid({
+                    images: images.slice(0, (i + 1)),
+                    align: true
+                });
+            }
+        </script>
  
     </body>
 </html>
