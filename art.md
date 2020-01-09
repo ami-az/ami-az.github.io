@@ -20,8 +20,11 @@ published: true
         <script>console.log('jQuery: ' + $.fn.jquery);</script>
 
         <!-- Imageg grid -->
-        <script src="src/images-grid.js"></script>
-        <link rel="stylesheet" href="src/images-grid.css">
+        <!--<script src="src/images-grid.js"></script>
+        <link rel="stylesheet" href="src/images-grid.css">-->
+      <script src="https://cdn.jsdelivr.net/gh/taras-d/images-grid/src/images-grid.min.js"></script>
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/taras-d/images-grid/src/images-grid.min.css">
+
 
         <style>
             body {
