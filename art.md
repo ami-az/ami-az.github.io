@@ -67,10 +67,10 @@ published: true
                 'https://ami-az.github.io/assets/images/pricetable.PNG',
                 'https://ami-az.github.io/assets/images/pricetable.PNG',
                 'https://ami-az.github.io/assets/images/pricetable.PNG',
-                'imgs/4.jpg',
-                'imgs/5.jpg',
-                'imgs/6.jpg',
-                'imgs/7.jpg',
+                'https://ami-az.github.io/assets/images/pricetable.PNG',
+                'https://ami-az.github.io/assets/images/pricetable.PNG',
+                'https://ami-az.github.io/assets/images/pricetable.PNG',
+                'https://ami-az.github.io/assets/images/pricetable.PNG',
             ];
             for (var i = 0; i < images.length; ++i) {
                 $('#gallery-' + (i + 1)).imagesGrid({
