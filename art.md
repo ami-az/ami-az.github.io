@@ -5,59 +5,115 @@ icon: fa-palette
 order: 4
 published: true
 ---
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
 
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
+        <script src="src/images-grid.js"></script>
+        <link rel="stylesheet" href="src/images-grid.css">
 
-.row {
-  display: flex;
-}
+        <style>
+        body { background-color:#fafafa;}
+            p {
+                text-align: center;
+                font-weight: bold;
+                font-family: sans-serif;
+            }
+            h1 { text-align:center; margin-top:50px;}
+        </style>
 
-/* Create three equal columns that sits next to each other */
-.column {
-  flex: 33.33%;
-  padding: 5px;
-}
-</style>
-</head>
-<body>
+    </head>
+    <body>
+<h1>jQuery images-grid Plugin Demo</h1>
+<div class="jquery-script-ads" style="margin:30px auto;" align="center"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2783044520727903";
+/* jQuery_demo */
+google_ad_slot = "2780937993";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+        <p>More than five images</p>
+        <div id="gallery1"></div>
 
-<h2>Images Side by Side</h2>
-<p>How to create side-by-side images with CSS Flexbox:</p>
+        <p>5 images</p>
+        <div id="gallery2"></div>
 
-<div class="row">
-  <div class="column">
-    <img src="assets/images/quote1.jpg" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://ami-az.github.io/assets/images/pricetable.PNG" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://ami-az.github.io/assets/images/pricetable.PNG" alt="Mountains" style="width:100%">
-  </div>
-</div>
-  
-  <div class="row">
-  <div class="column">
-    <img src="assets/images/quote1.jpg" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="assets/images/quote1.jpg" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="assets/images/quote1.jpg" alt="Mountains" style="width:100%">
-  </div>
-      <div class="column">
-    <img src="assets/images/quote1.jpg" alt="Mountains" style="width:100%">
-  </div>
-</div>
+        <p>4 images</p>
+        <div id="gallery3"></div>
 
-</body>
+        <p>3 images</p>
+        <div id="gallery4"></div>
+
+        <p>2 images</p>
+        <div id="gallery5"></div>
+
+        <p>1 image</p>
+        <div id="gallery6"></div>
+
+        <p>Images with different sizes (align)</p>
+        <div id="gallery7"></div>
+
+        <script>
+
+            var images = [
+                'https://unsplash.it/1300/800?image=875',
+                'https://unsplash.it/1300/800?image=874',
+                'https://unsplash.it/1300/800?image=872',
+                'https://unsplash.it/1300/800?image=868',
+                'https://unsplash.it/1300/800?image=839',
+                'https://unsplash.it/1300/800?image=838'
+            ];
+
+            $(function() {
+
+                $('#gallery1').imagesGrid({
+                    images: images
+                });
+                $('#gallery2').imagesGrid({
+                    images: images.slice(0, 5)
+                });
+                $('#gallery3').imagesGrid({
+                    images: images.slice(0, 4)
+                });
+                $('#gallery4').imagesGrid({
+                    images: images.slice(0, 3)
+                });
+                $('#gallery5').imagesGrid({
+                    images: images.slice(0, 2)
+                });
+                $('#gallery6').imagesGrid({
+                    images: images.slice(0, 1)
+                });
+                $('#gallery7').imagesGrid({
+                    images: [
+                        'https://unsplash.it/660/440?image=875',
+                'https://unsplash.it/660/990?image=874',
+                'https://unsplash.it/660/440?image=872',
+                'https://unsplash.it/750/500?image=868',
+                'https://unsplash.it/660/990?image=839',
+                'https://unsplash.it/660/455?image=838'
+                    ],
+                    align: true,
+                    getViewAllText: function(imgsCount) { return 'View all' }
+                });
+
+            });
+
+        </script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36251023-1']);
+  _gaq.push(['_setDomainName', 'jqueryscript.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+    </body>
 </html>
-
