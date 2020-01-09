@@ -5,80 +5,25 @@ icon: fa-palette
 order: 4
 published: true
 ---
-<!DOCTYPE html>
-<html>
-    <head>
-
-        <title>Images grid test</title>
-
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-
-        <!-- jQuery -->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.3/jquery.min.js"></script>
-        <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>-->
-        <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>-->
-        <script>console.log('jQuery: ' + $.fn.jquery);</script>
-
-        <!-- Imageg grid -->
-        <script src="src/images-grid.js"></script>
-        <link rel="stylesheet" href="src/images-grid.css">
-
-        <style>
-            body {
-                font-family: sans-serif;
-            }
-            p {
-                text-align: center;
-                margin: 10px;
-                font-weight: bold;
-                font-size: 12px;
-            }
-        </style>
-
-    </head>
-    <body>
-
-        <p>1 image</p>
-        <div id="gallery-1"></div>
-
-        <p>2 images</p>
-        <div id="gallery-2"></div>
-
-        <p>3 images</p>
-        <div id="gallery-3"></div>
-
-        <p>4 images</p>
-        <div id="gallery-4"></div>
-
-        <p>5 images</p>
-        <div id="gallery-5"></div>
-
-        <p>6 images</p>
-        <div id="gallery-6"></div>
-
-        <p>More than 6 images</p>
-        <div id="gallery-7"></div>
-
-        <script>
-            // Change default cells count from 5 to 6
-            $.fn.imagesGrid.defaults.cells = 6;
-            var images = [
-                'https://ami-az.github.io/assets/images/pricetable.PNG',
-                'https://ami-az.github.io/assets/images/pricetable.PNG',
-                'https://ami-az.github.io/assets/images/pricetable.PNG',
-                'https://ami-az.github.io/assets/images/pricetable.PNG',
-                'https://ami-az.github.io/assets/images/pricetable.PNG',
-                'https://ami-az.github.io/assets/images/pricetable.PNG',
-                'https://ami-az.github.io/assets/images/pricetable.PNG',
-            ];
-            for (var i = 0; i < images.length; ++i) {
-                $('#gallery-' + (i + 1)).imagesGrid({
-                    images: images.slice(0, (i + 1)),
-                    align: true
-                });
-            }
-        </script>
-
-    </body>
-</html>
+<title>Example</title>
+<style>
+.grid { 
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 20px;
+  align-items: stretch;
+  }
+.grid img {
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
+  max-width: 100%;
+}
+</style>
+<main class="grid">
+  <img src="https://ami-az.github.io/assets/images/pricetable.PNG" alt="Sample photo">
+  <img src="https://ami-az.github.io/assets/images/pricetable.PNG" alt="Sample photo">
+  <img src="https://ami-az.github.io/assets/images/pricetable.PNG" alt="Sample photo">
+  <img src="https://ami-az.github.io/assets/images/pricetable.PNG" alt="Sample photo">
+  <img src="https://ami-az.github.io/assets/images/pricetable.PNG" alt="Sample photo">
+  <img src="https://ami-az.github.io/assets/images/pricetable.PNG" alt="Sample photo">
+</main>
