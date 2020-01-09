@@ -82,6 +82,8 @@ published: true
                 });
             }
         </script>
-
+      <script>
+      $('#imgs').imagesGrid('modal.close')
+ </script>
     </body>
 </html>
