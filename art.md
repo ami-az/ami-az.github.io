@@ -70,6 +70,10 @@ published: true
                 'https://ami-az.github.io/assets/images/1.jpg',
                 'https://ami-az.github.io/assets/images/2.jpg',
                 'https://ami-az.github.io/assets/images/1.jpg',
+              'https://ami-az.github.io/assets/images/2.jpg',
+                'https://ami-az.github.io/assets/images/1.jpg',
+              'https://ami-az.github.io/assets/images/2.jpg',
+                'https://ami-az.github.io/assets/images/1.jpg',
             ];
             for (var i = 0; i < images.length; ++i) {
                 $('#gallery-' + (i + 1)).imagesGrid({
