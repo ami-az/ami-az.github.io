@@ -56,8 +56,8 @@ published: true
         <p>6 images</p>
         <div id="gallery-6"></div>
 
-        <p>More than 6 images</p>
-        <div id="gallery-7"></div>
+        <!--<p>More than 6 images</p>
+        <div id="gallery-7"></div>-->
 
         <script>
             // Change default cells count from 5 to 6
