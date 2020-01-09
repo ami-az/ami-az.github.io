@@ -5,30 +5,6 @@ icon: fa-palette
 order: 4
 published: true
 ---
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@ami-az 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-taras-d
-/
-images-grid
-5
-5218
- Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights
-images-grid/test.html
-@taras-d taras-d Remove tabs
-c4e8746 on Feb 2, 2017
-81 lines (62 sloc)  2.04 KB
-  
 <!DOCTYPE html>
 <html>
     <head>
@@ -91,10 +67,10 @@ c4e8746 on Feb 2, 2017
                 'https://ami-az.github.io/assets/images/pricetable.PNG',
                 'https://ami-az.github.io/assets/images/pricetable.PNG',
                 'https://ami-az.github.io/assets/images/pricetable.PNG',
-                'https://ami-az.github.io/assets/images/pricetable.PNG',
-                'https://ami-az.github.io/assets/images/pricetable.PNG',
-                'https://ami-az.github.io/assets/images/pricetable.PNG',
-                'https://ami-az.github.io/assets/images/pricetable.PNG',
+                'imgs/4.jpg',
+                'imgs/5.jpg',
+                'imgs/6.jpg',
+                'imgs/7.jpg',
             ];
             for (var i = 0; i < images.length; ++i) {
                 $('#gallery-' + (i + 1)).imagesGrid({
@@ -106,15 +82,3 @@ c4e8746 on Feb 2, 2017
 
     </body>
 </html>
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
