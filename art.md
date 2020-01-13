@@ -5,102 +5,22 @@ icon: fa-palette
 order: 4
 published: true
 ---
-<html>
-    <head>
-
-        <title>Images grid test</title>
-
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-
-        <!-- jQuery -->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.3/jquery.min.js"></script>
-        <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>-->
-        <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>-->
-        <script>console.log('jQuery: ' + $.fn.jquery);</script>
-
-        <!-- Imageg grid -->
-        <!--<script src="src/images-grid.js"></script>
-        <link rel="stylesheet" href="src/images-grid.css">-->
-      <script src="https://cdn.jsdelivr.net/gh/taras-d/images-grid/src/images-grid.min.js"></script>
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/taras-d/images-grid/src/images-grid.min.css">
-
-
-        <style>
-            body {
-                font-family: sans-serif;
-            }
-            p {
-                text-align: center;
-                margin: 10px;
-                font-weight: bold;
-                font-size: 12px;
-            }
-        </style>
-
-    </head>
-    <body>
-
-        <p>1 image</p>
-        <div id="gallery-1"></div>
-
-        <p>2 images</p>
-        <div id="gallery-2"></div>
-
-        <p>3 images</p>
-        <div id="gallery-3"></div>
-
-        <p>4 images</p>
-        <div id="gallery-4"></div>
-
-        <p>5 images</p>
-        <div id="gallery-5"></div>
-
-        <p>6 images</p>
-        <div id="gallery-6"></div>
-
-        <!--<p>More than 6 images</p>
-        <div id="gallery-7"></div>-->
-
-        <script>
-            // Change default cells count from 5 to 6
-            $.fn.imagesGrid.defaults.cells = 6;
-            var images = [
-                '/assets/images/1.jpg',
-                'https://ami-az.github.io/assets/images/2.jpg',
-                'https://ami-az.github.io/assets/images/1.jpg',
-                'https://ami-az.github.io/assets/images/2.jpg',
-                'https://ami-az.github.io/assets/images/1.jpg',
-                'https://ami-az.github.io/assets/images/2.jpg',
-                'https://ami-az.github.io/assets/images/1.jpg',
-              'https://ami-az.github.io/assets/images/2.jpg',
-                'https://ami-az.github.io/assets/images/1.jpg',
-              'https://ami-az.github.io/assets/images/2.jpg',
-                'https://ami-az.github.io/assets/images/1.jpg',
-            ];
-            for (var i = 0; i < images.length; ++i) {
-                $('#gallery-' + (i + 1)).imagesGrid({
-                    images: images.slice(0, (i + 1)),
-                    align: true
-                });
-            }
-        </script>
-       <script>
-            // Change default cells count from 5 to 6
-            $.fn.imagesGrid.defaults.cells = 6;
-            var images = [
-                '/assets/images/1.jpg',
-                'https://ami-az.github.io/assets/images/s1.jpg',
-                'https://ami-az.github.io/assets/images/s2.jpg',
-                
-            ];
-            for (var i = 0; i < images.length; ++i) {
-                $('#gallery-' + (i + 1)).imagesGrid({
-                    images: images.slice(0, (i + 1)),
-                    align: true
-                });
-            }
-        </script>
- 
-    </body>
-</html>
+<div class="row">
+<div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/study.jpg' | relative_url }}" alt="Ipsum Feugiat" /></a>
+        <header>
+          <button class="btn btn-success" onclick=" window.open('https://ami-az.github.io/study.html','_blank')">Study</button>
+        </header>       
+  </div>
+</div>
+  
+<div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/lifestyle.jpg' | relative_url }}" alt="Ipsum Feugiat" /></a>
+        <header>
+          <button class="btn btn-success" onclick=" window.open('https://ami-az.github.io/assets/images/pricetable.PNG','_blank')">Lifestyle</button>
+        </header>
+  </div>
+</div>
+   </div>
