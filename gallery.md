@@ -1,5 +1,5 @@
 ---
-title: Art
+title: Gallery
 layout: page
 icon: fa-palette
 order: 4
