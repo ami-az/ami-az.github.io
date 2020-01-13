@@ -1,5 +1,5 @@
 ---
-title: Donation
+title: Gratitude
 icon: fa-check
 order: 5
 published: true
