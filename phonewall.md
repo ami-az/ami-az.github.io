@@ -17,25 +17,41 @@ img {
 </head>
 <body>
 
-<img src="https://ami-az.github.io/assets/images/s1.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">
+<img src="https://ami-az.github.io/assets/images/hpwall/aesthetic.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">
+<img src="https://ami-az.github.io/assets/images/hpwall/aesthetic_night_sky.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/aesthetic_road.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">    
+<img src="https://ami-az.github.io/assets/images/hpwall/beautiful_nature.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/beautiful_view (1).jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/beautiful_view.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/bgy.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/clouds.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/cool_polygon.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/cute.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/cute_angry_bird.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/cute_christmas.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/cute_fall_ground.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/cute_owl.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/cute_pompoms_animals.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/darth_vader.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/flower_field.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/flowers.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/game_over.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/hide.md" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/lofi_hallway.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/miui_11.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/pastel_balloons.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/pastel_squares.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/pink_scenery_hd.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/pink_street.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/pink_tree.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/rose (1).jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/rose.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/roses.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/sky (1).jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/sky.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/yellow_flowers.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/yellow_tulips.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
 
-<img src="https://ami-az.github.io/assets/images/s2.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
 
-<img src="https://ami-az.github.io/assets/images/s3.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">
-  
-<img src="https://ami-az.github.io/assets/images/s4.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">
-  
-<div class="row">
-  <div class="column">
-    <img src="https://ami-az.github.io/assets/images/hpwall/aesthetic.jpg" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="img_forest.jpg" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
-  </div>
-</div>
-  
 </body>
 </html>
