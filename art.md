@@ -10,7 +10,7 @@ published: true
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/images/study.jpg' | relative_url }}" alt="Ipsum Feugiat" /></a>
         <header>
-          <button class="btn btn-success" onclick=" window.open('https://ami-az.github.io/study.html','_blank')">Study</button>
+          <button class="btn btn-success" onclick=" window.open('https://ami-az.github.io/phonewall.html','_blank')">Phone Wall</button>
         </header>       
   </div>
 </div>
