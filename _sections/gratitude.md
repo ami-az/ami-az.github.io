@@ -24,7 +24,7 @@ height: 100%;
 </style>
 
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/bkuDXqNv-GY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
+</iframe></div>
 
 <br><Thank you!> 
 <br>< 감사합니다 >
