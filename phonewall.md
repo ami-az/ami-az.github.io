@@ -79,7 +79,7 @@ img {
 <h2>Images Side by Side</h2>
 <p>How to create side-by-side images with CSS Flexbox:</p>
 
-<div class="row">
+<br><div class="row">
   <div class="column">
     <img src="https://ami-az.github.io/assets/images/hpwall/yellow_tulips.jpg" alt="Snow" style="width:100%">
   </div>
