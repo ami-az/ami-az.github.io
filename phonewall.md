@@ -36,7 +36,6 @@ img {
 <img src="https://ami-az.github.io/assets/images/hpwall/flower_field.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
 <img src="https://ami-az.github.io/assets/images/hpwall/flowers.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
 <img src="https://ami-az.github.io/assets/images/hpwall/game_over.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
-<img src="https://ami-az.github.io/assets/images/hpwall/hide.md" alt="HTML5 Icon" style="width:200px;height:250px;">  
 <img src="https://ami-az.github.io/assets/images/hpwall/lofi_hallway.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
 <img src="https://ami-az.github.io/assets/images/hpwall/miui_11.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
 <img src="https://ami-az.github.io/assets/images/hpwall/pastel_balloons.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
