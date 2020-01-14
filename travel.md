@@ -16,7 +16,7 @@ published: true
 .column {
   float: left;
   width: 33.33%;
-  padding: 5px;
+  padding: 10px;
 }
 
 /* Clearfix (clear floats) */
@@ -34,13 +34,13 @@ published: true
 
 <div class="row">
   <div class="column">
-    <img src="https://ami-az.github.io/assets/images/hpwall/aesthetic_road.jpg" alt="Snow" style="width:100%">
+    <img src="https://ami-az.github.io/assets/images/hpwall/aesthetic_road.jpg" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://ami-az.github.io/assets/images/hpwall/aesthetic_road.jpg" alt="Forest" style="width:100%">
+    <img src="https://ami-az.github.io/assets/images/hpwall/aesthetic_road.jpg" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://ami-az.github.io/assets/images/hpwall/aesthetic_road.jpg" alt="Mountains" style="width:100%">
+    <img src="https://ami-az.github.io/assets/images/hpwall/aesthetic_road.jpg" style="width:100%">
   </div>
 </div>
 
