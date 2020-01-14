@@ -7,24 +7,42 @@ hide: true
 published: true
 ---
 
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+</style>
+</head>
+<body>
+
+<h2>Images Side by Side</h2>
+<p>How to create side-by-side images with CSS Flexbox:</p>
+
 <div class="row">
-<div class="4u 12u$(mobile)">
-      <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/gsmalert.jpg' | relative_url }}" alt="Ipsum Feugiat" /></a>
-        <header>
-          <h3>GSM Alert Mechanism</h3>
-          <button class="btn btn-success" onclick=" window.open('https://ami-az.github.io/assets/images/gsmalert.jpg','_blank')">See Full Image</button>
-        </header>
-          </div>
-  
-  <div class="4u 12u$(mobile)">
-      <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/pricetable.PNG' | relative_url }}" alt="Ipsum Feugiat" /></a>
-        <header>
-          <h3>Pricing Table</h3>
-          <button class="btn btn-success" onclick=" window.open('https://ami-az.github.io/assets/images/pricetable.PNG','_blank')">See Full Image</button>
-        </header>
+  <div class="column">
+    <img src="https://ami-az.github.io/assets/images/hpwall/aesthetic_road.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://ami-az.github.io/assets/images/hpwall/aesthetic_road.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://ami-az.github.io/assets/images/hpwall/aesthetic_road.jpg" alt="Mountains" style="width:100%">
   </div>
 </div>
-   </div>
-   </div>
+
+</body>
+</html>
+  
