@@ -78,13 +78,13 @@ img {
   
 <div class="row">
   <div class="column">
-    <img src="https://ami-az.github.io/assets/images/hpwall/yellow_tulips.jpg" alt="Snow" style="width:100%">
+    <img src="https://ami-az.github.io/assets/images/hpwall/yellow_tulips.jpg" alt="Snow" style="width:50%">
   </div>
   <div class="column">
-    <img src="https://ami-az.github.io/assets/images/hpwall/yellow_flowers.jpg" alt="Forest" style="width:100%">
+    <img src="https://ami-az.github.io/assets/images/hpwall/yellow_flowers.jpg" alt="Forest" style="width:50%">
   </div>
   <div class="column">
-    <img src="https://ami-az.github.io/assets/images/hpwall/sky.jpg" alt="Mountains" style="width:100%">
+    <img src="https://ami-az.github.io/assets/images/hpwall/sky.jpg" alt="Mountains" style="width:50%">
   </div>
 </div>
   
