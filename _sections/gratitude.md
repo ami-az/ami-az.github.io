@@ -20,8 +20,8 @@ padding-top: 30px; height: 0; overflow: hidden;
 position: absolute;
 top: 0;
 left: 0;
-width: 50%;
-height: 50%;
+width: 100%;
+height: 100%;
 }
   }
 </style>
