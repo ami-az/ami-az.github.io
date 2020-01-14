@@ -6,7 +6,6 @@ order: 9
 hide: true
 published: true
 ---
-<h3 align="center">Results</h3>
 
 <div class="row">
 <div class="4u 12u$(mobile)">
