@@ -88,17 +88,7 @@ img {
   </div>
 </div>
   
-  <div class="row">
-  <div class="column">
-    <img src="https://ami-az.github.io/assets/images/hpwall/yellow_tulips.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">
-  </div>
-  <div class="column">
-    <img src="https://ami-az.github.io/assets/images/hpwall/yellow_flowers.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
-  </div>
-  <div class="column">
-    <img src="https://ami-az.github.io/assets/images/hpwall/sky.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">
-    </div>
-</div>
+
     
 </body>
 </html>
