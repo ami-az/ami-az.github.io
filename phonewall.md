@@ -7,14 +7,7 @@ hide: true
 published: true
 ---
 <html>
-<head>
-<style>
-img {
-  width: 100%;
-  height: auto;
-}
-</style>
-</head>
+
 <body>
 
 <img src="https://ami-az.github.io/assets/images/hpwall/aesthetic_night_sky.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
