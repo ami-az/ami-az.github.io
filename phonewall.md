@@ -75,11 +75,8 @@ img {
 </style>
 </head>
 <body>
-
-<h2>Images Side by Side</h2>
-<p>How to create side-by-side images with CSS Flexbox:</p>
-
-&nbsp<div class="row">
+  
+<div class="row">
   <div class="column">
     <img src="https://ami-az.github.io/assets/images/hpwall/yellow_tulips.jpg" alt="Snow" style="width:100%">
   </div>
@@ -90,6 +87,18 @@ img {
     <img src="https://ami-az.github.io/assets/images/hpwall/sky.jpg" alt="Mountains" style="width:100%">
   </div>
 </div>
-
+  
+  <div class="row">
+  <div class="column">
+    <img src="https://ami-az.github.io/assets/images/hpwall/yellow_tulips.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">
+  </div>
+  <div class="column">
+    <img src="https://ami-az.github.io/assets/images/hpwall/yellow_flowers.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+  </div>
+  <div class="column">
+    <img src="https://ami-az.github.io/assets/images/hpwall/sky.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">
+    </div>
+</div>
+    
 </body>
 </html>
