@@ -36,10 +36,10 @@ published: true
     <img src="https://ami-az.github.io/assets/images/hpwall/aesthetic_road.jpg" alt="Snow" style="width:200px;height:250px;">
   </div>
   <div class="column">
-    <img src="https://ami-az.github.io/assets/images/hpwall/aesthetic_road.jpg" alt="Forest" style="width:100%">
+    <img src="https://ami-az.github.io/assets/images/hpwall/aesthetic_road.jpg" alt="Forest" style="width:200px;height:250px;">
   </div>
   <div class="column">
-    <img src="https://ami-az.github.io/assets/images/hpwall/aesthetic_road.jpg" alt="Mountains" style="width:100%">
+    <img src="https://ami-az.github.io/assets/images/hpwall/aesthetic_road.jpg" alt="Mountains" style="width:200px;height:250px;">
   </div>
   </div>
 
