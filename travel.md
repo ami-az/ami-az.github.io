@@ -16,7 +16,7 @@ published: true
 .column {
   float: left;
   width: 33.33%;
-  padding: 10px;
+  padding: 5px;
 }
 
 /* Clearfix (clear floats) */
