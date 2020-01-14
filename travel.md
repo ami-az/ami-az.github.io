@@ -31,9 +31,9 @@ published: true
 <h2>Images Side by Side</h2>
 <p>How to create side-by-side images with CSS Flexbox:</p>
 
-<center><div class="row">
+<div class="row">
   <div class="column">
-    <img src="https://ami-az.github.io/assets/images/hpwall/aesthetic_road.jpg" alt="Snow" style="width:100%">
+    <img src="https://ami-az.github.io/assets/images/hpwall/aesthetic_road.jpg" alt="Snow" style="width:200px;height:250px;">
   </div>
   <div class="column">
     <img src="https://ami-az.github.io/assets/images/hpwall/aesthetic_road.jpg" alt="Forest" style="width:100%">
@@ -41,7 +41,7 @@ published: true
   <div class="column">
     <img src="https://ami-az.github.io/assets/images/hpwall/aesthetic_road.jpg" alt="Mountains" style="width:100%">
   </div>
-  </div></center>
+  </div>
 
 </body>
 </html>
