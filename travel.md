@@ -34,6 +34,9 @@ published: true
 
 <div class="row">
   <div class="column">
+    <img src="https://ami-az.github.io/assets/images/hpwall/aesthetic_road.jpg" class="center" style="width:100%">
+  </div>
+  <div class="column">
     <img src="https://ami-az.github.io/assets/images/hpwall/aesthetic_road.jpg" style="width:100%">
   </div>
   <div class="column">
