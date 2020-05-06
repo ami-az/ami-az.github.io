@@ -51,7 +51,21 @@ img {
 <img src="https://ami-az.github.io/assets/images/hpwall/aesthetic.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">
 <img src="https://ami-az.github.io/assets/images/hpwall/sky.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
 <img src="https://ami-az.github.io/assets/images/hpwall/yellow_flowers.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
-<img src="https://ami-az.github.io/assets/images/hpwall/yellow_tulips.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/hpwall/yellow_tulips.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">
+<img src="https://ami-az.github.io/assets/images/hpwall/qt1.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">
+<img src="https://ami-az.github.io/assets/images/hpwall/qt2.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">
+  <img src="https://ami-az.github.io/assets/images/hpwall/qt3.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">
+  <img src="https://ami-az.github.io/assets/images/hpwall/qt4.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">
+  <img src="https://ami-az.github.io/assets/images/hpwall/qt5.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">
+  <img src="https://ami-az.github.io/assets/images/hpwall/qt6.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">
+  <img src="https://ami-az.github.io/assets/images/hpwall/qt7.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">
+  <img src="https://ami-az.github.io/assets/images/hpwall/qt8.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">
+  <img src="https://ami-az.github.io/assets/images/hpwall/qt9.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">
+  <img src="https://ami-az.github.io/assets/images/hpwall/qt10.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">
+  <img src="https://ami-az.github.io/assets/images/hpwall/wall1.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">
+  <img src="https://ami-az.github.io/assets/images/hpwall/wall2.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">
+  <img src="https://ami-az.github.io/assets/images/hpwall/wall3.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">
+  <img src="https://ami-az.github.io/assets/images/hpwall/wall4.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">
 
 
 </body>
