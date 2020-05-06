@@ -34,20 +34,7 @@ published: true
 </head>
 <body>
 
-<h2>Images Side by Side</h2>
-<p>How to create side-by-side images with the CSS float property:</p>
-
-<div class="row">
-  <div class="column">
-    <img src="https://ami-az.github.io/assets/images/hpwall/aesthetic_road.jpg" style="width:100%" align="middle">
-  </div>
-  <div class="column">
-    <img src="https://ami-az.github.io/assets/images/hpwall/aesthetic_road.jpg" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://ami-az.github.io/assets/images/hpwall/aesthetic_road.jpg" style="width:100%">
-  </div>
-</div>
+Travel Photography soon!
 
 </body>
 </html>
