@@ -17,6 +17,9 @@ img {
 </head>
 
 <body>
+  
+  <center>
+   
 <a href="https://ami-az.github.io/assets/images/hpwall/aesthetic_night_sky.jpg" download="aestheticnight">
 <img src="https://ami-az.github.io/assets/images/hpwall/aesthetic_night_sky.jpg" alt="HTML5 Icon" style="width:200px;height:250px;"> 
 </a>
@@ -67,7 +70,7 @@ img {
   <img src="https://ami-az.github.io/assets/images/hpwall/wall3.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">
   <img src="https://ami-az.github.io/assets/images/hpwall/wall4.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">
 
-
+ </center>
 </body>
 </html>
 
