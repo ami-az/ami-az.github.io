@@ -17,7 +17,7 @@ img {
 </head>
 
 <body>
-  <br>Use landscape orientation on mobile for better view.
+  Use landscape orientation on mobile for better view.<br>
   <center>
    
 <a href="https://ami-az.github.io/assets/images/hpwall/aesthetic_night_sky.jpg" download="aestheticnight">
