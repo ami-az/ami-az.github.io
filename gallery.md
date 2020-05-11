@@ -19,7 +19,7 @@ img {
 <div class="row">
 <div class="4u 12u$(mobile)">
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/phonewall.jpg' | relative_url }}" alt="HTML5 Icon" style="width:200px;height:150px;" /></a>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/phonewall.jpg' | relative_url }}" alt="Ipsum Feugiat" /></a>
         <header>
           <button class="btn btn-success" onclick=" window.open('https://ami-az.github.io/phonewall.html','_blank')">Phone Wall</button>
         </header>       
