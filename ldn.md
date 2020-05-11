@@ -88,7 +88,6 @@ img {
 <img src="https://ami-az.github.io/assets/images/lon19/30.jpg" alt="HTML5 Icon" style="width:200px;height:150px;"> 
 
 <img src="https://ami-az.github.io/assets/images/lon19/portrait/26.jpg" alt="HTML5 Icon" style="width:130px;height:150px;">     
-<img src="https://ami-az.github.io/assets/images/lon19/portrait/27.jpg" alt="HTML5 Icon" style="width:130px;height:150px;">  
 <img src="https://ami-az.github.io/assets/images/lon19/portrait/28.jpg" alt="HTML5 Icon" style="width:130px;height:150px;">  
 <img src="https://ami-az.github.io/assets/images/lon19/portrait/29.jpg" alt="HTML5 Icon" style="width:130px;height:150px;">     
 <img src="https://ami-az.github.io/assets/images/lon19/portrait/30.jpg" alt="HTML5 Icon" style="width:130px;height:150px;">
