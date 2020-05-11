@@ -1,5 +1,5 @@
 ---
-title: Travel Trip
+title: Travel Photography
 layout: post
 icon: fa-book
 order: 9
