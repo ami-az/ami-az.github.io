@@ -98,17 +98,11 @@ img {
 <img src="https://ami-az.github.io/assets/images/lon19/45.jpg" alt="HTML5 Icon" style="width:200px;height:150px;">    
 <img src="https://ami-az.github.io/assets/images/lon19/46.jpg" alt="HTML5 Icon" style="width:200px;height:150px;">     
 
-
-
-
 <img src="https://ami-az.github.io/assets/images/lon19/47.jpg" alt="HTML5 Icon" style="width:200px;height:150px;">     
 <img src="https://ami-az.github.io/assets/images/lon19/48.jpg" alt="HTML5 Icon" style="width:200px;height:150px;">    
 <img src="https://ami-az.github.io/assets/images/lon19/49.jpg" alt="HTML5 Icon" style="width:200px;height:150px;">    
 <img src="https://ami-az.github.io/assets/images/lon19/50.jpg" alt="HTML5 Icon" style="width:200px;height:150px;">   
 <img src="https://ami-az.github.io/assets/images/lon19/51.jpg" alt="HTML5 Icon" style="width:200px;height:150px;">    
-
-
-
 
 <img src="https://ami-az.github.io/assets/images/lon19/52.jpg" alt="HTML5 Icon" style="width:200px;height:150px;">    
 <img src="https://ami-az.github.io/assets/images/lon19/53.jpg" alt="HTML5 Icon" style="width:200px;height:150px;">     
@@ -124,6 +118,8 @@ img {
 <img src="https://ami-az.github.io/assets/images/lon19/63.jpg" alt="HTML5 Icon" style="width:200px;height:150px;">     
 <img src="https://ami-az.github.io/assets/images/lon19/64.jpg" alt="HTML5 Icon" style="width:200px;height:150px;">    
 <img src="https://ami-az.github.io/assets/images/lon19/65.jpg" alt="HTML5 Icon" style="width:200px;height:150px;">    
+
+<br>Portrait<br>
 
 <img src="https://ami-az.github.io/assets/images/lon19/portrait/1.jpg" alt="HTML5 Icon" style="width:130px;height:150px;">     
 <img src="https://ami-az.github.io/assets/images/lon19/portrait/2.jpg" alt="HTML5 Icon" style="width:130px;height:150px;">  
@@ -158,7 +154,7 @@ img {
 <img src="https://ami-az.github.io/assets/images/lon19/portrait/29.jpg" alt="HTML5 Icon" style="width:130px;height:150px;">     
 <img src="https://ami-az.github.io/assets/images/lon19/portrait/30.jpg" alt="HTML5 Icon" style="width:130px;height:150px;">
 
-<br>Portrait<br>
+
 <img src="https://ami-az.github.io/assets/images/lon19/portrait/31.jpg" alt="HTML5 Icon" style="width:130px;height:150px;">     
 <img src="https://ami-az.github.io/assets/images/lon19/portrait/32.jpg" alt="HTML5 Icon" style="width:130px;height:150px;">  
 <img src="https://ami-az.github.io/assets/images/lon19/portrait/33.jpg" alt="HTML5 Icon" style="width:130px;height:150px;">  
