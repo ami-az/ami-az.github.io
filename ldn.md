@@ -27,11 +27,11 @@ img {
 <img src="https://ami-az.github.io/assets/images/lon19/4.jpg" alt="HTML5 Icon" style="width:200px;height:150px;">     
 <img src="https://ami-az.github.io/assets/images/lon19/5.jpg" alt="HTML5 Icon" style="width:200px;height:150px;">
 
-<img src="https://ami-az.github.io/assets/images/lon19/portrait/1.jpg" alt="HTML5 Icon" style="width:200px;height:150px;">     
-<img src="https://ami-az.github.io/assets/images/lon19/portrait/2.jpg" alt="HTML5 Icon" style="width:200px;height:150px;">  
-<img src="https://ami-az.github.io/assets/images/lon19/portrait/3.jpg" alt="HTML5 Icon" style="width:200px;height:150px;">  
-<img src="https://ami-az.github.io/assets/images/lon19/portrait/4.jpg" alt="HTML5 Icon" style="width:200px;height:150px;">     
-<img src="https://ami-az.github.io/assets/images/lon19/portrait/5.jpg" alt="HTML5 Icon" style="width:200px;height:150px;">
+<img src="https://ami-az.github.io/assets/images/lon19/portrait/1.jpg" alt="HTML5 Icon" style="width:130px;height:150px;">     
+<img src="https://ami-az.github.io/assets/images/lon19/portrait/2.jpg" alt="HTML5 Icon" style="width:130px;height:150px;">  
+<img src="https://ami-az.github.io/assets/images/lon19/portrait/3.jpg" alt="HTML5 Icon" style="width:130px;height:150px;">  
+<img src="https://ami-az.github.io/assets/images/lon19/portrait/4.jpg" alt="HTML5 Icon" style="width:130px;height:150px;">     
+<img src="https://ami-az.github.io/assets/images/lon19/portrait/5.jpg" alt="HTML5 Icon" style="width:130px;height:150px;">
 
 
 <img src="https://ami-az.github.io/assets/images/lon19/6.jpg" alt="HTML5 Icon" style="width:200px;height:150px;">     
