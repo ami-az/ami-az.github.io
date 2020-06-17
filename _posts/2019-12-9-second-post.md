@@ -25,7 +25,7 @@ published: true
 
 
 <h3>MIT App Project File</h3>
-<button class="btn btn-success" onclick=" window.open('hhttps://github.com/ami-az/ami-az.github.io/raw/master/assets/images/projectapp/FinderDeviceMappingV3.aia','_blank')">Download AIA</button>
+<button class="btn btn-success" onclick=" window.open('hhttps://github.com/ami-az/ami-az.github.io/raw/master/assets/images/projectapp/FinderDeviceMappingV3.aia?raw=true','_blank')">Download AIA</button>
 
 <h3>Finder Device Mapping</h3>
-<button class="btn btn-success" onclick=" window.open('https://github.com/ami-az/ami-az.github.io/raw/master/assets/images/projectapp/FinderDeviceMappingV3.apk','_blank')">Download APK</button>
+<button class="btn btn-success" onclick=" window.open('https://github.com/ami-az/ami-az.github.io/blob/master/assets/images/projectapp/FinderDeviceMappingV3.apk?raw=true','_blank')">Download APK</button>
