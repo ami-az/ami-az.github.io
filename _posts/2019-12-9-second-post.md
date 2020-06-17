@@ -13,6 +13,7 @@ published: true
 <hr />
 <h3 align="center">App Design</h3>
 <img src="https://ami-az.github.io/assets/images/projectapp/appmobile1.png" alt="HTML5 Icon" style="width:150px;height:300px;"> 
+<img src="https://ami-az.github.io/assets/images/projectapp/appmobile2.png" alt="HTML5 Icon" style="width:150px;height:300px;"> 
 <h3 align="center">Results</h3>
 <hr />
 <br>The next step is to insert the geolocation data which is the latitude and longitude. The user able to record the movement trail of the traveller by putting on markers on the Map (Mark On Map button). There is no markers limitation so the user will be able to use the mapping as much as they want to track the location consistently over time. 
