@@ -24,8 +24,9 @@ published: true
 <img src="https://ami-az.github.io/assets/images/projectapp/appmobile3.png" alt="HTML5 Icon" style="width:400px;height:400px;"> 
 <hr />
 <h3>MIT App Project File</h3>
-- Import this file to create project @ http://ai2.appinventor.mit.edu
+- Import this file to create project @<a href="http://ai2.appinventor.mit.edu">ai2.appinventor.mit.edu</a>
 - Able to view the coding / components used
+<br>
 <button class="btn btn-success" onclick=" window.open('https://github.com/ami-az/ami-az.github.io/raw/master/assets/images/projectapp/FinderDeviceMappingV3.aia?raw=true','_blank')">Download AIA</button>
 <hr />
 <h3>Finder Device Mapping</h3>
