@@ -22,10 +22,9 @@ published: true
 
 <img src="https://ami-az.github.io/assets/images/projectapp/appmobile4.png" alt="HTML5 Icon" style="width:380px;height:400px;"> 
 <img src="https://ami-az.github.io/assets/images/projectapp/appmobile3.png" alt="HTML5 Icon" style="width:380px;height:400px;"> 
-
-
+<hr />
 <h3>MIT App Project File</h3>
 <button class="btn btn-success" onclick=" window.open('hhttps://github.com/ami-az/ami-az.github.io/raw/master/assets/images/projectapp/FinderDeviceMappingV3.aia?raw=true','_blank')">Download AIA</button>
-
+<hr />
 <h3>Finder Device Mapping</h3>
 <button class="btn btn-success" onclick=" window.open('https://github.com/ami-az/ami-az.github.io/blob/master/assets/images/projectapp/FinderDeviceMappingV3.apk?raw=true','_blank')">Download APK</button>
