@@ -18,11 +18,11 @@ img {
 <body>
 
 <center>
-<img src="https://ami-az.github.io/assets/images/buriedalive.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">
+<img src="https://ami-az.github.io/assets/images/buriedalive.jpg" alt="HTML5 Icon" style="width:400px;height:450px;">
 
-<img src="https://ami-az.github.io/assets/images/greatminds.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">  
+<img src="https://ami-az.github.io/assets/images/greatminds.jpg" alt="HTML5 Icon" style="width:400px;height:450px;">  
 
-<img src="https://ami-az.github.io/assets/images/grow.jpg" alt="HTML5 Icon" style="width:200px;height:250px;">
+<img src="https://ami-az.github.io/assets/images/grow.jpg" alt="HTML5 Icon" style="width:400px;height:450px;">
     
   </center>
   
