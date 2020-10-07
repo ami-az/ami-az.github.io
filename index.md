@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Our Repository
+title: FO Repository
 icon: fa-home
 order: 1
 published: true
