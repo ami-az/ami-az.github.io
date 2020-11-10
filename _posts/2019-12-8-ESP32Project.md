@@ -34,7 +34,6 @@ The main objectives of this project are stated as follows:
         </header>
   </div>
 </div>
-   </div>
       
  <div class="4u 12u$(mobile)">
       <div class="item">
@@ -45,7 +44,6 @@ The main objectives of this project are stated as follows:
         </header>
   </div>
 </div>
-   </div>
    
   <div class="4u 12u$(mobile)">
       <div class="item">
@@ -56,9 +54,7 @@ The main objectives of this project are stated as follows:
         </header>
   </div>
 </div>
-   </div>
       
-  
 <div class="4u 12u$(mobile)">
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/images/esp32project/pricetable2.png' | relative_url }}" alt="Ipsum Feugiat" /></a>
@@ -68,8 +64,7 @@ The main objectives of this project are stated as follows:
         </header>
   </div>
 </div>
-   </div>
-   
+  
 <hr />
 <h3 align="center">Results</h3>
 
@@ -94,6 +89,8 @@ The main objectives of this project are stated as follows:
         </header>
           </div>
   </div>
+      </div>
+      
 <hr  />
 <h3 align="center">Prototype</h3>
 
@@ -102,7 +99,7 @@ The main objectives of this project are stated as follows:
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/images/esp32project/sizedimension.png' | relative_url }}" alt="Ipsum Feugiat" /></a>
         <header>
-          <h3>LCD Troubleshooting</h3>
+          <h3>Traveller & Finder Devices</h3>
         </header>
   </div>
 </div>
