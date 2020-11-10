@@ -29,7 +29,7 @@ The main objectives of this project are stated as follows:
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/images/esp32project/travellerblockdiagram.png' | relative_url }}" alt="Ipsum Feugiat" /></a>
         <header>
-          <h3>Pricing Table</h3>
+          <h3>PBlock Diagram</h3>
           <button class="btn btn-success" onclick=" window.open('https://ami-az.github.io/assets/images/travellerblockdiagram.png','_blank')">See Full Image</button>
         </header>
   </div>
@@ -39,7 +39,7 @@ The main objectives of this project are stated as follows:
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/images/esp32project/travellerschematic.png' | relative_url }}" alt="Ipsum Feugiat" /></a>
         <header>
-          <h3>Pricing Table</h3>
+          <h3>Traveller Device Schematic</h3>
           <button class="btn btn-success" onclick=" window.open('https://ami-az.github.io/assets/images/travellerschematic.png','_blank')">See Full Image</button>
         </header>
   </div>
@@ -49,7 +49,7 @@ The main objectives of this project are stated as follows:
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/images/esp32project/finderschematic.png' | relative_url }}" alt="Ipsum Feugiat" /></a>
         <header>
-          <h3>Pricing Table</h3>
+          <h3>Finder Device Schematic</h3>
           <button class="btn btn-success" onclick=" window.open('https://ami-az.github.io/assets/images/finderschematic.png','_blank')">See Full Image</button>
         </header>
   </div>
