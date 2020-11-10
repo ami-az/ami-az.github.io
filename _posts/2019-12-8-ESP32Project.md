@@ -24,6 +24,40 @@ The main objectives of this project are stated as follows:
         </header>       
   </div>
 </div>
+      
+  <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/esp32project/travellerblockdiagram.png' | relative_url }}" alt="Ipsum Feugiat" /></a>
+        <header>
+          <h3>Pricing Table</h3>
+          <button class="btn btn-success" onclick=" window.open('https://ami-az.github.io/assets/images/travellerblockdiagram.png','_blank')">See Full Image</button>
+        </header>
+  </div>
+</div>
+   </div>
+      
+ <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/esp32project/travellerschematic.png' | relative_url }}" alt="Ipsum Feugiat" /></a>
+        <header>
+          <h3>Pricing Table</h3>
+          <button class="btn btn-success" onclick=" window.open('https://ami-az.github.io/assets/images/travellerschematic.png','_blank')">See Full Image</button>
+        </header>
+  </div>
+</div>
+   </div>
+   
+  <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/esp32project/finderschematic.png' | relative_url }}" alt="Ipsum Feugiat" /></a>
+        <header>
+          <h3>Pricing Table</h3>
+          <button class="btn btn-success" onclick=" window.open('https://ami-az.github.io/assets/images/finderschematic.png','_blank')">See Full Image</button>
+        </header>
+  </div>
+</div>
+   </div>
+      
   
 <div class="4u 12u$(mobile)">
       <div class="item">
@@ -60,3 +94,16 @@ The main objectives of this project are stated as follows:
         </header>
           </div>
   </div>
+<hr  />
+<h3 align="center">Prototype</h3>
+
+<div class="row">
+<div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/esp32project/sizedimension.png' | relative_url }}" alt="Ipsum Feugiat" /></a>
+        <header>
+          <h3>LCD Troubleshooting</h3>
+        </header>
+  </div>
+</div>
+
