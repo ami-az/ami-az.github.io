@@ -24,7 +24,7 @@ The main objectives of this project are stated as follows:
         height: 300px;
 </style>
 
-<h3 align="center">System Design</h3>
+<h3 align="center">System Designz</h3>
 <div class="row">
 <div class="4u 12u$(mobile)">
       <div class="box">
