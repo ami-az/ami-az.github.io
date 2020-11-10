@@ -64,7 +64,7 @@ The main objectives of this project are stated as follows:
         </header>
   </div>
 </div>
-  
+  </div>
 <hr />
 <h3 align="center">Results</h3>
 
