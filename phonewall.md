@@ -4,8 +4,8 @@ layout: post
 icon: fa-book
 order: 8
 hide: true
-published: true
 ---
+
 <html>
 <head>
 <style>

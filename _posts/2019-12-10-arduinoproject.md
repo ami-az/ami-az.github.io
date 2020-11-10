@@ -1,10 +1,10 @@
 ---
 title: Arduino Project
+date: 2019-12-10 00:00:00 Z
 author: Ami-AZ
 layout: post
 icon: fa-lightbulb
 icon-style: regular
-published: true
 ---
 
 <h3>Camper Safety Pro-Tech</h3>

@@ -1,7 +1,7 @@
 ---
-layout: home
 title: FO Repository
+layout: home
 icon: fa-home
 order: 1
-published: true
 ---
+

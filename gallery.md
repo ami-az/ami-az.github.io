@@ -3,8 +3,8 @@ title: Gallery
 layout: page
 icon: fa-palette
 order: 4
-published: true
 ---
+
 <html>
 <head>
 <style>

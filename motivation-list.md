@@ -3,8 +3,8 @@ title: Motivation List
 layout: page
 icon: fa-laugh-beam
 order: 3
-published: true
 ---
+
 <div class="row">
 <div class="4u 12u$(mobile)">
       <div class="item">
