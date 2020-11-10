@@ -17,7 +17,7 @@ The main objectives of this project are stated as follows:
 <div class="row">
 <div class="4u 12u$(mobile)">
       <div class="item">
-        <a href="#" class="square"><img src="{{ 'assets/images/esp32project/systemdesign2.png' width="50" height="70" | relative_url }}" alt="Ipsum Feugiat" /></a>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/esp32project/systemdesign2.png' width="50" height="70" | relative_url }}" alt="Ipsum Feugiat" /></a>
         <header>
           <h3>Flow Chart</h3>
           <button class="btn btn-success" onclick=" window.open('https://ami-az.github.io/assets/images/esp32project/systemdesign2.png','_blank')">See Full Image</button>
@@ -27,13 +27,14 @@ The main objectives of this project are stated as follows:
       
   <div class="4u 12u$(mobile)">
       <div class="item">
-        <a href="#" class="square"><img src="{{ 'assets/images/esp32project/travellerblockdiagram.png' width="50" height="70" | relative_url }}" alt="Ipsum Feugiat" /></a>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/esp32project/travellerblockdiagram.png' width="50" height="70" | relative_url }}" alt="Ipsum Feugiat" /></a>
         <header>
           <h3>Block Diagram</h3>
           <button class="btn btn-success" onclick=" window.open('https://ami-az.github.io/assets/images/travellerblockdiagram.png','_blank')">See Full Image</button>
         </header>
   </div>
 </div>
+<br />
       
  <div class="4u 12u$(mobile)">
       <div class="item">
