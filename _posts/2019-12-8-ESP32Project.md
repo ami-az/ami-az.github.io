@@ -29,7 +29,7 @@ The main objectives of this project are stated as follows:
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/images/esp32project/travellerblockdiagram.png' width="50" height="70" | relative_url }}" alt="Ipsum Feugiat" /></a>
         <header>
-          <h3>PBlock Diagram</h3>
+          <h3>Block Diagram</h3>
           <button class="btn btn-success" onclick=" window.open('https://ami-az.github.io/assets/images/travellerblockdiagram.png','_blank')">See Full Image</button>
         </header>
   </div>
