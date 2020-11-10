@@ -11,6 +11,7 @@ The main objectives of this project are stated as follows:
 - To develop an outdoor multi security system with multi-sensor implementation.
 - To notify the users when there is presence of intruder or unpredictable climate changes via mobile notification and speaker.
 - To monitor the location of the traveller by using LoRa communication technology via mobile application.
+<hr />
 
 <h3 align="center">System Design</h3>
 <div class="row">
