@@ -13,10 +13,21 @@ The main objectives of this project are stated as follows:
 - To monitor the location of the traveller by using LoRa communication technology via mobile application.
 <hr />
 
+<style>
+    img{
+        max-width: 100%;
+        max-height: 100%;
+        display: block; /* remove extra space below image */
+    }
+    .box{
+        width: 250px;        
+        border: 5px solid black;
+</style>
+
 <h3 align="center">System Design</h3>
 <div class="row">
 <div class="4u 12u$(mobile)">
-      <div class="item">
+      <div class="box">
         <a href="#" class="image fit"><img src="{{ 'assets/images/esp32project/systemdesign2.png' style="width:200px;height:250px;" | relative_url }}" alt="Ipsum Feugiat" /></a>
         <header>
           <h3>Flow Chart</h3>
@@ -26,7 +37,7 @@ The main objectives of this project are stated as follows:
 </div>
       
   <div class="4u 12u$(mobile)">
-      <div class="item">
+      <div class="box">
         <a href="#" class="image fit"><img src="{{ 'assets/images/esp32project/travellerblockdiagram.png' style="width:200px;height:250px;" | relative_url }}" alt="Ipsum Feugiat" /></a>
         <header>
           <h3>Block Diagram</h3>
