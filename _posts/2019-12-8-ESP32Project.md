@@ -17,7 +17,7 @@ The main objectives of this project are stated as follows:
 <div class="row">
 <div class="4u 12u$(mobile)">
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/esp32project/mappingfinder.png' | relative_url }}" alt="Ipsum Feugiat" /></a>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/esp32project/systemdesign2.png' | relative_url }}" alt="Ipsum Feugiat" /></a>
         <header>
           <h3>Flow Chart</h3>
           <button class="btn btn-success" onclick=" window.open('https://ami-az.github.io/assets/images/esp32project/systemdesign2.png','_blank')">See Full Image</button>
@@ -27,7 +27,7 @@ The main objectives of this project are stated as follows:
       
   <div class="4u 12u$(mobile)">
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/esp32project/panicbutton.png' | relative_url }}" alt="Ipsum Feugiat" /></a>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/esp32project/travellerblockdiagram.png' | relative_url }}" alt="Ipsum Feugiat" /></a>
         <header>
           <h3>Block Diagram</h3>
           <button class="btn btn-success" onclick=" window.open('https://ami-az.github.io/assets/images/travellerblockdiagram.png','_blank')">See Full Image</button>
@@ -37,7 +37,7 @@ The main objectives of this project are stated as follows:
       
  <div class="4u 12u$(mobile)">
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/esp32project/blynktraveller.png' | relative_url }}" alt="Ipsum Feugiat" /></a>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/esp32project/travellerschematic.png' | relative_url }}" alt="Ipsum Feugiat" /></a>
         <header>
           <h3>Traveller Device Schematic</h3>
           <button class="btn btn-success" onclick=" window.open('https://ami-az.github.io/assets/images/esp32project/travellerschematic.png','_blank')">See Full Image</button>
@@ -75,27 +75,25 @@ The main objectives of this project are stated as follows:
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/images/esp32project/blynktraveller.png' | relative_url }}" alt="Ipsum Feugiat" /></a>
         <header>
-          <h3>BLYNK Alert Mechanism</h3>
+          <h3>Blynk App</h3>
           <button class="btn btn-success" onclick=" window.open('https://ami-az.github.io/assets/images/esp32project/blynktraveller.png','_blank')">See Full Image</button>
-        </header>
-          </div>
+        </header>       
   </div>
+</div>
       
-<div class="row">
-<div class="4u 12u$(mobile)">
+  <div class="4u 12u$(mobile)">
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/images/esp32project/mappingfinder.png' | relative_url }}" alt="Ipsum Feugiat" /></a>
         <header>
           <h3>Finder Mapping App</h3>
           <button class="btn btn-success" onclick=" window.open('https://ami-az.github.io/assets/images/esp32project/mappingfinder.png','_blank')">See Full Image</button>
         </header>
-          </div>
   </div>
-      </div>
+</div>
       
-   <div class="4u 12u$(mobile)">
-   <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/esp32project/panicbutton.png' width="100px" height="100px" | relative_url }}" alt="Ipsum Feugiat" /></a>
+ <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/esp32project/panicbutton.png' | relative_url }}" alt="Ipsum Feugiat" /></a>
         <header>
           <h3>Panic Button</h3>
           <button class="btn btn-success" onclick=" window.open('https://ami-az.github.io/assets/images/esp32project/panicbutton.png','_blank')">See Full Image</button>
