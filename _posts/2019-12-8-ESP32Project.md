@@ -8,9 +8,9 @@ layout: post
 <br> This is an upgrade/development from previous project named Camper Safety Pro-Tech (<a href="https://ami-az.github.io/2019/12/10/arduinoproject.html"><u>Link</u></a>)
 
 The main objectives of this project are stated as follows:
-a)	To develop an outdoor multi security system with multi-sensor implementation.
-b)	To notify the users when there is presence of intruder or unpredictable climate changes via mobile notification and speaker.
-c)	To monitor the location of the traveller by using LoRa communication technology via mobile application.
+- To develop an outdoor multi security system with multi-sensor implementation.
+- To notify the users when there is presence of intruder or unpredictable climate changes via mobile notification and speaker.
+- To monitor the location of the traveller by using LoRa communication technology via mobile application.
 
 <h3 align="center">System Design</h3>
 <div class="row">
