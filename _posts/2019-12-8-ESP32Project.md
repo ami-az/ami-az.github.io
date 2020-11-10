@@ -21,7 +21,7 @@ The main objectives of this project are stated as follows:
     }
     .box{
         width: 250px;        
-        border: 5px solid black;
+        height: 300px;
 </style>
 
 <h3 align="center">System Design</h3>
