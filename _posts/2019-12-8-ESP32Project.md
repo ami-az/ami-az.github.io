@@ -65,6 +65,7 @@ The main objectives of this project are stated as follows:
   </div>
 </div>
   </div>
+  
 <hr />
 <h3 align="center">Results</h3>
 
@@ -90,7 +91,7 @@ The main objectives of this project are stated as follows:
           </div>
   </div>
       </div>
-      
+       </div>
 <hr  />
 <h3 align="center">Prototype</h3>
 
