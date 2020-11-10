@@ -49,3 +49,14 @@ The main objectives of this project are stated as follows:
         </header>
           </div>
   </div>
+      
+<div class="row">
+<div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/esp32project/mappingfinder.png' | relative_url }}" alt="Ipsum Feugiat" /></a>
+        <header>
+          <h3>Finder Mapping App</h3>
+          <button class="btn btn-success" onclick=" window.open('https://ami-az.github.io/assets/images/esp32project/mappingfinder.png','_blank')">See Full Image</button>
+        </header>
+          </div>
+  </div>
