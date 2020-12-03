@@ -13,7 +13,7 @@ layout: post
 1) Three folders were created which named data, positives and negatives in a directory.
 2) 391 images of bicycles were put into positives folder, 4719 images of non-related to bicycle were put into negatives folder, while data folder was set empty.
 3) Then train the cascade using the provided commands and annotate the positive images.
-4) The sample was created and trained (Figure 3.1).
+4) The sample was created and trained (Figure 1.0).
 5) Cascade.xml which was created by the training process is put in the directory of the python program file.
 
 <span class="image center"><img src="{{ 'assets/images/opencv/levelofstages.png' | relative_url }}" alt="" /></span>
