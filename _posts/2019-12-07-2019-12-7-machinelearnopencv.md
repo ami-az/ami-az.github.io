@@ -21,3 +21,7 @@ Below are the steps and configurations in Ubuntu System including OpenCV and Pyt
 <br>In this mini project program, there are three different source code files in order to produce outputs from three different sources which are from images, video and webcam that is real world environment. Below are the figures of the source code files.
 
 <span class="image center"><img src="{{ 'assets/images/opencv/imageofsourcecodes.png' | relative_url }}" alt="Figure 2.0: Image Source Codes" /></span>
+
+<span class="image center"><img src="{{ 'assets/images/opencv/videosourcecodes.png' | relative_url }}" alt="Figure 3.0: Video Source Codes" /></span>
+
+<span class="image center"><img src="{{ 'assets/images/opencv/webcamsourcecodes.png' | relative_url }}" alt="Figure 4.0: Webcam Source Codes" /></span>
