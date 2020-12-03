@@ -7,7 +7,7 @@ layout: post
 
 <h3>Bicycle Detection using Haar Cascade in OpenCV</h3>
 
-<br>This segment will explain the specific procedures and techniques of my mini project which titled Bicycle Detection by using Haar Cascades features in OpenCV and how to implement it in the real-world environment.
+<font color="maroon"><br>This segment will explain the specific procedures and techniques of my mini project which titled Bicycle Detection by using Haar Cascades features in OpenCV and how to implement it in the real-world environment.
 
 Below are the steps and configurations in Ubuntu System including OpenCV and Python3 binding which have been installed properly.
 <br>1) Three folders were created which named data, positives and negatives in a directory.
