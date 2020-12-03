@@ -7,7 +7,7 @@ layout: post
 
 <h3>Bicycle Detection using Haar Cascade in OpenCV</h3>
 
-<br>This segment will explain the specific procedures and techniques of my mini project which titled Bicycle Detection by using Haar Cascades features in OpenCV and how to implement it in the real-world environment.
+<br><font color="maroon">This segment will explain the specific procedures and techniques of my mini project which titled Bicycle Detection by using Haar Cascades features in OpenCV and how to implement it in the real-world environment.</font>
 
 Below are the steps and configurations in Ubuntu System including OpenCV and Python3 binding which have been installed properly.
 
@@ -22,7 +22,7 @@ Below are the steps and configurations in Ubuntu System including OpenCV and Pyt
 5) Cascade.xml which was created by the training process is put in the directory of the python program file.
 
 <span class="image center"><img src="{{ 'assets/images/opencv/levelofstages.png' | relative_url }}" alt="Figure 1.0: Level of Stages" /></span>
-Figure 1.0: Level of Stages
+<br>Figure 1.0: Level of Stages
 
 <br>In this mini project program, there are three different source code files in order to produce outputs from three different sources which are from images, video and webcam that is real world environment. Below are the figures of the source code files.
 
@@ -34,3 +34,6 @@ Figure 1.0: Level of Stages
 
 <span class="image center"><img src="{{ 'assets/images/opencv/webcamsourcecodes.png' | relative_url }}" alt="Figure 4.0: Webcam Source Codes" /></span>
 <br>Figure 4.0: Webcam Source Codes
+
+   <hr />
+  <h3 align="center">Results Demonstration</h3>
