@@ -37,7 +37,12 @@ In this mini project program, there are three different source code files in ord
 
    <hr />
   <h3 align="center">Results Demonstration</h3>
-  
+  <br>
+  <span class="image center"><img src="{{ 'assets/images/opencv/1.png' | relative_url }}" alt="" /></span>
+  <span class="image center"><img src="{{ 'assets/images/2.png' | relative_url }}" alt=" /></span>
+  <span class="image center"><img src="{{ 'assets/images/opencv/3.png' | relative_url }}" alt="" /></span>
+
+  <br>
   <style>
   @media only screen and (max-width: 767px) {
 
