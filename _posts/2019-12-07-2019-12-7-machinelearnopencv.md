@@ -16,5 +16,8 @@ Below are the steps and configurations in Ubuntu System including OpenCV and Pyt
 <br>4) The sample was created and trained (Figure 1.0).
 <br>5) Cascade.xml which was created by the training process is put in the directory of the python program file.
 
-<span class="image center"><img src="{{ 'assets/images/opencv/levelofstages.png' | relative_url }}" alt="" /></span>
+<span class="image center"><img src="{{ 'assets/images/opencv/levelofstages.png' | relative_url }}" alt="Figure 1.0: Level of Stages" /></span>
 
+<br>In this mini project program, there are three different source code files in order to produce outputs from three different sources which are from images, video and webcam that is real world environment. Below are the figures of the source code files.
+
+<span class="image center"><img src="{{ 'assets/images/opencv/imageofsourcecodes.png' | relative_url }}" alt="Figure 2.0: Image Source Codes" /></span>
